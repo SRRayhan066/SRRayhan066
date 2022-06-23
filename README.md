@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Md Shafikul Rahman(Rayhan)</h1>
 <h3 align="center">A passionate learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srrayhan066&label=Profile%20views&color=0e75b6&style=flat" alt="srrayhan066" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🌱 I’m currently learning **Competitive Programming**
 
