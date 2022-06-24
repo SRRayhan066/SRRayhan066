@@ -1,7 +1,10 @@
-[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2021/01/Software_Engineering.gif)](https://srrayhan066.io)
+
+<img align='center' src= "https://i.postimg.cc/54ZpW0PQ/Software-Development.jpg">
 
 <h1 align="center">Hi 👋, I'm Md Shafikul Rahman(Rayhan)</h1>
-<h3 align="center">A passionate learner</h3>
+
+<h3 align="center">Want to know three things about me?</h3>
+<h3 align="center"> A passioniate learner,programmer and developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srrayhan066&label=Profile%20views&color=0e75b6&style=flat" alt="srrayhan066" /> </p>
 
@@ -25,9 +28,16 @@
 <h3 align="left">My skills:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srrayhan066&show_icons=true&locale=en&layout=compact" alt="srrayhan066" /></p>
+<hr>
 
+<p align='center'>
+<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srrayhan066&layout=compact&langs_count=8&theme=algolia" width="350"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srrayhan066&show_icons=true&locale=en" alt="srrayhan066" /></p>
+<p align='center'>
+<img align='center' src= "https://github-readme-stats.vercel.app/api?username=srrayhan066&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="420"> 
+</p>
+
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srrayhan066&" alt="srrayhan066" /></p>
