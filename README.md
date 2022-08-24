@@ -59,7 +59,7 @@
 <p align='center'>
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srrayhan066&theme=react&count_private=true" >
-  <img src="https://activity-graph.herokuapp.com/graph?username=srrayhan066&theme=react-dark" >
+  <!img src="https://activity-graph.herokuapp.com/graph?username=srrayhan066&theme=react-dark" >
 <p/>
 
 
