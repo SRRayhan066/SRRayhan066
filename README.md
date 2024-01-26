@@ -11,7 +11,7 @@ A passioniate learner,programmer and developer. I'm currently practicing <b>Comp
   "Language": ["C", "C++", "Java", "JavaScript"],
   "App Development": ["Android", "Java"],
   "Frontend": ["HTML", "CSS", "Vanilla JavaScript"],
-  "Backend": ["NodeJs"],
+  "Backend": ["NodeJs", "ExpressJs"],
   "Database": ["MySQL", "Firebase"],
   "Libraries": ["iGraphics", "LibGDX"],
   "MS-Office": ["Word", "PowerPoint", "Excel"]
@@ -28,9 +28,7 @@ A passioniate learner,programmer and developer. I'm currently practicing <b>Comp
 <a href="https://discord.gg/#7739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7739" height="30" width="40" /></a>
 </p>
 
-
 <hr>
-
 
 <div>
 <p align='center'>
@@ -38,7 +36,3 @@ A passioniate learner,programmer and developer. I'm currently practicing <b>Comp
 <img  align="right" src= "https://github-readme-stats.vercel.app/api?username=srrayhan066&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="420"> 
 </p>
 </div>
-
-
-
-
