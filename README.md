@@ -10,9 +10,9 @@ A passioniate learner,programmer and developer. I'm currently practicing <b>Comp
 {
   "Language": ["C", "C++", "Java", "JavaScript"],
   "App Development": ["Android", "Java"],
-  "Frontend": ["HTML", "CSS", "Vanilla JavaScript"],
+  "Frontend": ["HTML", "CSS", "VanillaJS"],
   "Backend": ["NodeJs", "ExpressJs"],
-  "Database": ["MySQL", "Firebase"],
+  "Database": ["MySQL", "Firebase", "MongoDB"],
   "Libraries": ["iGraphics", "LibGDX"],
   "MS-Office": ["Word", "PowerPoint", "Excel"]
 }
