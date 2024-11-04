@@ -10,7 +10,7 @@ A passioniate learner,programmer and developer. I'm currently practicing <b>Comp
 {
   "Language": ["C", "C++", "Java", "JavaScript"],
   "App Development": ["Android", "Java"],
-  "Frontend": ["HTML", "CSS", "VanillaJS"],
+  "Frontend": ["HTML", "CSS", "VanillaJS", "ReactJs", "Tailwind CSS"],
   "Backend": ["NodeJs", "ExpressJs"],
   "Database": ["MySQL", "Firebase", "MongoDB"],
   "Libraries": ["iGraphics", "LibGDX"],
