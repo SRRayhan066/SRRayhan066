@@ -4,6 +4,11 @@
 <p> <img src="https://komarev.com/ghpvc/?username=srrayhan066&label=Profile%20views&color=0e75b6&style=flat" alt="srrayhan066" /> </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### Skills :
