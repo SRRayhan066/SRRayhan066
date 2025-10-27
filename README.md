@@ -3,6 +3,9 @@
 # Hi 👋, I'm Md Shafikul Rahman(Rayhan)
 <p> <img src="https://komarev.com/ghpvc/?username=srrayhan066&label=Profile%20views&color=0e75b6&style=flat" alt="srrayhan066" /> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Skills :
 
 ```json
