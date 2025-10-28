@@ -12,7 +12,19 @@
 </p>
 
 
-# Hi 👋, I'm Md Shafikul Rahman(Rayhan)
+### 👨‍💻 A bit about me...
+```javascript
+const SRRayhan = {
+  name: "S R Rayhan",
+  locatedIn: "Dhaka, Bangladesh",
+  job: "Associate Software Engineer @ ShellBeeHaken Ltd",
+  education: "B.Sc. in Software Engineering @ SUST",
+  code: [JavaScript, TypeScript, HTML, CSS, Java, C, C++,],
+  tools: [Next.js, Node.js, Express.js, Redux, Tailwind CSS, Shadcn/UI],
+  databases: [MySQL, MongoDB, Firebase],
+  currentlyLearning: ["Backend Development", "Machine Learning"]
+}
+```
 
 
 📈 My last week stats
@@ -24,19 +36,7 @@ TypeScript   16 mins         █████████████████
 
 <!--END_SECTION:waka-->
 
-### Skills :
 
-```json
-{
-  "Language": ["C", "C++", "Java", "JavaScript"],
-  "App Development": ["Android", "Java"],
-  "Frontend": ["HTML", "CSS", "VanillaJS", "ReactJs", "Tailwind CSS"],
-  "Backend": ["NodeJs", "ExpressJs"],
-  "Database": ["MySQL", "Firebase", "MongoDB"],
-  "Libraries": ["iGraphics", "LibGDX"],
-  "MS-Office": ["Word", "PowerPoint", "Excel"]
-}
-```
 
 <h3 align="left"> 📫 Connect with me :</h3>
 <p align="left">
