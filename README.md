@@ -1,7 +1,18 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=srrayhan066&label=Visitors&color=0e75b6&style=flat" alt="srrayhan066" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;Code.+Create.+Innovate.+🚀;Turning+coffee+into+code+☕;Welcome+to+my+GitHub!+💻&center=true&size=30&width=600">
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-r-rayhan066" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="srrayhan066"/></a> 
+  <a href="https://medium.com/@shafikulrahman66" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="srrayhan066" /></a> 
+</p>
 
 
 # Hi 👋, I'm Md Shafikul Rahman(Rayhan)
-<p> <img src="https://komarev.com/ghpvc/?username=srrayhan066&label=Profile%20views&color=0e75b6&style=flat" alt="srrayhan066" /> </p>
 
 
 📈 My last week stats
