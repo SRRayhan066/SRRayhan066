@@ -74,19 +74,10 @@ Go                       1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-
-<h3 align="left"> 📫 Connect with me :</h3>
-<p align="left">
-
-<a href="https://www.facebook.com/srrayhan066/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s r rayhan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/s_r_rayhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s_r_rayhan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rayhan66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rayhan66" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/s r rayhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="s r rayhan" height="30" width="40" /></a>
-<a href="https://discord.gg/#7739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7739" height="30" width="40" /></a>
-</p>
-
 <hr>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srrayhan066&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <div>
 <p align='center'>
