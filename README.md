@@ -19,7 +19,7 @@ const SRRayhan = {
   locatedIn: "Dhaka, Bangladesh",
   job: "Associate Software Engineer @ ShellBeeHaken Ltd",
   education: "B.Sc. in Software Engineering @ SUST",
-  code: [JavaScript, TypeScript, HTML, CSS, Java, C, C++,],
+  code: [JavaScript, TypeScript, HTML, CSS, Java, C, C++],
   tools: [Next.js, Node.js, Express.js, Redux, Tailwind CSS, Shadcn/UI],
   databases: [MySQL, MongoDB, Firebase],
   currentlyLearning: ["Backend Development", "Machine Learning"]
