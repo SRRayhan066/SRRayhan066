@@ -36,3 +36,16 @@ export const programmingProfiles = [
   { name: "LeetCode", icon: SiLeetcode },
   { name: "StopsTalk", icon: SiStopstalk },
 ];
+
+export const experiences = [
+  {
+    title: "Associate Software Engineer",
+    company: "ShellBeeHaken Ltd",
+    duration: "June, 2025 - Present",
+  },
+  {
+    title: "Intern Software Engineer",
+    company: "ShellBeeHaken Ltd",
+    duration: "December, 2024 - May, 2025",
+  },
+];
