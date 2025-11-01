@@ -1,6 +1,12 @@
 import { FaFacebookSquare, FaLinkedin } from "react-icons/fa";
 import { FaSquareGithub } from "react-icons/fa6";
 import { IoLogoMedium } from "react-icons/io5";
+import {
+  SiCodechef,
+  SiCodeforces,
+  SiLeetcode,
+  SiStopstalk,
+} from "react-icons/si";
 
 export const aboutMe = {
   name: "S R Rayhan",
@@ -23,3 +29,10 @@ export const aboutMe = {
     { name: "Github", icon: FaSquareGithub },
   ],
 };
+
+export const programmingProfiles = [
+  { name: "Codeforces", icon: SiCodeforces },
+  { name: "Codechef", icon: SiCodechef },
+  { name: "LeetCode", icon: SiLeetcode },
+  { name: "StopsTalk", icon: SiStopstalk },
+];
