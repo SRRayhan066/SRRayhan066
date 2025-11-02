@@ -1,9 +1,6 @@
 import SkillTag from "@/components/skill-tag/SkillTag";
 import { skillSet } from "@/data/portfolioData";
 import ContentWrapper from "@/wrapper/ContentWrapper";
-import { FaCogs, FaPalette } from "react-icons/fa";
-import { FaLaptopCode, FaPlug, FaServer } from "react-icons/fa6";
-import { SiNextdotjs } from "react-icons/si";
 
 export default function Skills() {
   return (

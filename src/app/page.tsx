@@ -2,6 +2,7 @@ import AboutMe from "@/sections/AboutMe";
 import ProgrammingProfile from "@/sections/ProgrammingProfile";
 import Experiences from "@/sections/Experiences";
 import Skills from "@/sections/Skills";
+import Blogs from "@/sections/Blogs";
 
 export default function Page() {
   return (
@@ -10,6 +11,7 @@ export default function Page() {
       <ProgrammingProfile />
       <Experiences />
       <Skills />
+      <Blogs />
     </section>
   );
 }
