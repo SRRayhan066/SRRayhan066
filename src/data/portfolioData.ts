@@ -1,22 +1,38 @@
-import { BiLogoCss3, BiLogoTypescript } from "react-icons/bi";
-import { FaCogs, FaFacebookSquare, FaLinkedin } from "react-icons/fa";
+import { BiLogoCss3, BiLogoFirebase, BiLogoTypescript } from "react-icons/bi";
+import { DiMongodb, DiRedis } from "react-icons/di";
 import {
+  FaBitbucket,
+  FaCogs,
+  FaConfluence,
+  FaFacebookSquare,
+  FaGitAlt,
+  FaLinkedin,
+} from "react-icons/fa";
+import {
+  FaDatabase,
   FaHtml5,
+  FaJava,
   FaLaptopCode,
   FaNodeJs,
   FaReact,
   FaSquareGithub,
 } from "react-icons/fa6";
+import { GrTechnology } from "react-icons/gr";
 import { IoLogoMedium } from "react-icons/io5";
-import { PiShareNetwork } from "react-icons/pi";
+import { PiFileCppDuotone, PiShareNetwork } from "react-icons/pi";
+import { RiTeamLine } from "react-icons/ri";
 import {
   SiCodechef,
   SiCodeforces,
   SiExpress,
+  SiJira,
   SiLeetcode,
+  SiMysql,
   SiNextdotjs,
+  SiRedis,
   SiStopstalk,
 } from "react-icons/si";
+import { TbBrandCpp, TbBrandSocketIo } from "react-icons/tb";
 
 export const aboutMe = {
   name: "S R Rayhan",
@@ -44,7 +60,6 @@ export const programmingProfiles = [
   { name: "Codeforces", icon: SiCodeforces },
   { name: "Codechef", icon: SiCodechef },
   { name: "LeetCode", icon: SiLeetcode },
-  { name: "StopsTalk", icon: SiStopstalk },
 ];
 
 export const experiences = [
@@ -106,6 +121,78 @@ export const skillSet = [
       {
         icon: PiShareNetwork,
         name: "REST APIs",
+      },
+    ],
+  },
+  {
+    title: {
+      icon: FaDatabase,
+      name: "Database & Storage",
+    },
+    skills: [
+      {
+        icon: DiMongodb,
+        name: "MongoDB",
+      },
+      {
+        icon: SiMysql,
+        name: "MySQL",
+      },
+      {
+        icon: BiLogoFirebase,
+        name: "Firebase",
+      },
+      {
+        icon: SiRedis,
+        name: "Redis",
+      },
+    ],
+  },
+  {
+    title: {
+      icon: RiTeamLine,
+      name: "Team Collaboration",
+    },
+    skills: [
+      {
+        icon: FaGitAlt,
+        name: "Git",
+      },
+      {
+        icon: FaSquareGithub,
+        name: "GitHub",
+      },
+      {
+        icon: FaBitbucket,
+        name: "BitBucket",
+      },
+      {
+        icon: SiJira,
+        name: "Jira",
+      },
+      {
+        icon: FaConfluence,
+        name: "Confluence",
+      },
+    ],
+  },
+  {
+    title: {
+      icon: GrTechnology,
+      name: "Additional Languages & Technologies",
+    },
+    skills: [
+      {
+        icon: PiFileCppDuotone,
+        name: "Cpp",
+      },
+      {
+        icon: FaJava,
+        name: "Java",
+      },
+      {
+        icon: TbBrandSocketIo,
+        name: "Socket.io",
       },
     ],
   },

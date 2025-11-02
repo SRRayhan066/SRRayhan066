@@ -7,7 +7,7 @@ import { SiNextdotjs } from "react-icons/si";
 
 export default function Skills() {
   return (
-    <ContentWrapper className="col-start-4 col-span-3 row-start-6 row-span-7 flex flex-col items-center gap-4">
+    <ContentWrapper className="col-start-10 col-span-3 row-start-1 row-span-9 flex flex-col items-center gap-4">
       <h1 className="text-2xl font-bold">Technical Skills</h1>
       <div className="w-full flex flex-col gap-5">
         {skillSet.map((set, index) => {
