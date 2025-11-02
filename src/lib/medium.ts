@@ -1,4 +1,3 @@
-// lib/medium.ts
 import Parser from "rss-parser";
 
 export type MediumPost = {
@@ -14,19 +13,12 @@ export type MediumPost = {
 
 const parser = new Parser();
 
-/**
- * Try to extract an image URL from Medium's HTML content (if any).
- */
 function extractImageFromContent(content: string | undefined): string | null {
   if (!content) return null;
   const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i);
   return imgMatch ? imgMatch[1] : null;
 }
 
-/**
- * Simple in-memory cache to avoid repeated parsing during dev/short-lived server instances.
- * Keyed by username. Each entry: { data, expiresAt }
- */
 const globalAny = globalThis as any;
 if (!globalAny.__MEDIUM_CACHE) {
   globalAny.__MEDIUM_CACHE = new Map<
@@ -39,30 +31,22 @@ const CACHE = globalAny.__MEDIUM_CACHE as Map<
   { data: MediumPost[]; expiresAt: number }
 >;
 
-export async function getMediumPosts(
-  username: string,
-  opts?: { limit?: number; revalidateSeconds?: number }
-): Promise<MediumPost[]> {
-  const limit = opts?.limit ?? 10;
-  const revalidateSeconds = opts?.revalidateSeconds ?? 3600; // 1 hour default
+export async function getMediumPosts(): Promise<MediumPost[]> {
+  const username = process.env.MEDIUM_USERNAME!;
+  const limit = 10;
+  const revalidateSeconds = 3600;
 
   const cacheKey = username.toLowerCase();
 
-  // Check memory cache first
   const cached = CACHE.get(cacheKey);
   const now = Date.now();
   if (cached && cached.expiresAt > now) {
     return cached.data.slice(0, limit);
   }
 
-  // Medium RSS URL for a user
   const feedUrl = `https://medium.com/feed/@${username}`;
 
-  // Use Next.js fetch with revalidation metadata. In Next.js 15 App Router server component
-  // `fetch` accepts { next: { revalidate: seconds } } to cache server-side.
-  // (If this environment ignores it, in-memory cache still helps.)
   const res = await fetch(feedUrl, {
-    // Next.js fetch caching hint; safe to include in Next 13/14/15 App Router.
     next: { revalidate: revalidateSeconds },
     headers: {
       "User-Agent": "Mozilla/5.0 (compatible; rss-fetcher/1.0)",
@@ -71,7 +55,6 @@ export async function getMediumPosts(
   });
 
   if (!res.ok) {
-    // if Medium returned a redirect or 404, throw or return empty list
     console.warn(`Failed to fetch Medium RSS for ${username}: ${res.status}`);
     return [];
   }
@@ -98,7 +81,6 @@ export async function getMediumPosts(
     };
   });
 
-  // Save to in-memory cache
   CACHE.set(cacheKey, {
     data: posts,
     expiresAt: now + revalidateSeconds * 1000,
