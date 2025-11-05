@@ -24,11 +24,9 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} h-full m-0 p-5 flex justify-center items-center overflow-hidden`}
+        className={`${geistSans.variable} ${geistMono.variable} h-full m-0 p-3 flex justify-center items-center`}
       >
-        <div className="max-w-[1920px] max-h-[1000px] w-full h-full">
-          {children}
-        </div>
+        <div className="max-w-[1440px] w-full h-full">{children}</div>
       </body>
     </html>
   );

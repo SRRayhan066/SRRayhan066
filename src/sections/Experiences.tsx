@@ -4,9 +4,9 @@ import ContentWrapper from "@/wrapper/ContentWrapper";
 
 export default function Experiences() {
   return (
-    <ContentWrapper className="col-start-1 col-span-3 row-start-6 row-span-5 flex flex-col items-center gap-4">
-      <h1 className="text-2xl font-bold">Experiences</h1>
-      <div className="w-full h-full flex flex-col justify-center">
+    <ContentWrapper className="col-start-5 col-span-4 row-start-9 row-span-4 flex flex-col items-center justify-between">
+      <h1 className="text-xl font-bold">Experiences</h1>
+      <div className="w-full flex flex-col">
         {experiences.map((experience, indx) => (
           <ExperienceCard
             key={indx}
