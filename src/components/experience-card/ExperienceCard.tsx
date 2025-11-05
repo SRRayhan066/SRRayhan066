@@ -17,8 +17,8 @@ export default function ExperienceCard({
         {!isLast && <div className="flex-1 w-px bg-neutral-700" />}
       </div>
       <div className="flex flex-col gap-3 bg-neutral-800 rounded-lg p-4 w-full mb-2">
-        <h3 className="text-xl font-semibold leading-none">{title}</h3>
-        <p className="leading-none">{company}</p>
+        <h3 className="text-lg font-semibold leading-none">{title}</h3>
+        <p className="leading-none text-md">{company}</p>
         <p className="leading-none text-sm">{duration}</p>
       </div>
     </div>

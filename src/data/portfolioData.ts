@@ -122,6 +122,10 @@ export const skillSet = [
         icon: PiShareNetwork,
         name: "REST APIs",
       },
+      {
+        icon: TbBrandSocketIo,
+        name: "Socket.io",
+      },
     ],
   },
   {
@@ -173,26 +177,6 @@ export const skillSet = [
       {
         icon: FaConfluence,
         name: "Confluence",
-      },
-    ],
-  },
-  {
-    title: {
-      icon: GrTechnology,
-      name: "Additional Languages & Technologies",
-    },
-    skills: [
-      {
-        icon: PiFileCppDuotone,
-        name: "Cpp",
-      },
-      {
-        icon: FaJava,
-        name: "Java",
-      },
-      {
-        icon: TbBrandSocketIo,
-        name: "Socket.io",
       },
     ],
   },

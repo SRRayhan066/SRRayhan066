@@ -8,10 +8,10 @@ import { aboutMe } from "@/data/portfolioData";
 export default function AboutMe() {
   const { name, tagLine, growth, infoTags, socialTags } = aboutMe;
   return (
-    <ContentWrapper className="col-start-1 col-span-4 row-start-1 row-span-5 flex flex-col justify-center gap-4">
+    <ContentWrapper className="col-start-1 col-span-5 row-start-1 row-span-4 flex flex-col justify-center gap-3">
       <div className="flex relative">
         <div className="flex items-center w-full gap-2">
-          <div className="w-32 h-32 relative overflow-hidden rounded-3xl shrink-0">
+          <div className="w-22 h-22 relative overflow-hidden rounded-3xl shrink-0">
             <Image
               src="/profile.jpg"
               alt="S R Rayhan's Profile Picture"
@@ -21,8 +21,7 @@ export default function AboutMe() {
           </div>
           <div className="flex flex-col gap-1 overflow-hidden">
             <h3 className="text-xl font-bold">{name}</h3>
-            <p className="text-md">{tagLine}</p>
-            <p>{growth.title}</p>
+            <p className="text-sm">{growth.title}</p>
             <p className="overflow-hidden">{growth.progressBar}</p>
           </div>
         </div>
@@ -42,7 +41,7 @@ export default function AboutMe() {
       <div className="rounded-lg flex gap-2">
         {socialTags.map(({ name, icon: Icon }) => (
           <SocialTag key={name}>
-            <Icon /> <p className="text-lg">{name}</p>
+            <Icon /> <p className="text-sm">{name}</p>
           </SocialTag>
         ))}
       </div>
