@@ -20,7 +20,7 @@ import {
 import { GrTechnology } from "react-icons/gr";
 import { IoLogoMedium } from "react-icons/io5";
 import { PiFileCppDuotone, PiShareNetwork } from "react-icons/pi";
-import { RiTeamLine } from "react-icons/ri";
+import { RiTailwindCssFill, RiTeamLine } from "react-icons/ri";
 import {
   SiCodechef,
   SiCodeforces,
@@ -32,7 +32,7 @@ import {
   SiRedis,
   SiStopstalk,
 } from "react-icons/si";
-import { TbBrandCpp, TbBrandSocketIo } from "react-icons/tb";
+import { TbBrandSocketIo } from "react-icons/tb";
 
 export const aboutMe = {
   name: "S R Rayhan",
@@ -102,6 +102,10 @@ export const skillSet = [
         icon: BiLogoCss3,
         name: "CSS3",
       },
+      {
+        icon: RiTailwindCssFill,
+        name: "Tailwind CSS",
+      },
     ],
   },
   {
@@ -121,10 +125,6 @@ export const skillSet = [
       {
         icon: PiShareNetwork,
         name: "REST APIs",
-      },
-      {
-        icon: TbBrandSocketIo,
-        name: "Socket.io",
       },
     ],
   },
@@ -179,5 +179,76 @@ export const skillSet = [
         name: "Confluence",
       },
     ],
+  },
+  {
+    title: {
+      icon: GrTechnology,
+      name: "Additional Languages & Technologies",
+    },
+    skills: [
+      {
+        icon: PiFileCppDuotone,
+        name: "C++",
+      },
+      {
+        icon: FaJava,
+        name: "Java",
+      },
+      {
+        icon: TbBrandSocketIo,
+        name: "Socket.io",
+      },
+    ],
+  },
+];
+
+export const projects = [
+  {
+    title: "Iron Man",
+    image: "/ironman.bmp",
+    tags: ["C++", "igraphics.h"],
+    url: "",
+  },
+  {
+    title: "Link's Adventure: A Lone Warrior",
+    image: "/adventure.png",
+    tags: ["Java", "LibGDX"],
+    url: "",
+  },
+  {
+    title: "Tic Tac Toe",
+    image: "/tictactoe.jpg",
+    tags: ["AI", "Minimax", "C++"],
+    url: "",
+  },
+  {
+    title: "Office Room",
+    image: "/tictactoe.jpg", // need to change
+    tags: ["Java", "Android", "Firebase"],
+    url: "",
+  },
+  {
+    title: "SUST Football Tournament Management System",
+    image: "/ftms.png",
+    tags: ["React.js", "Node.js", "MySQL"],
+    url: "",
+  },
+  {
+    title: "DNCC Waste Management",
+    image: "/dncc.png",
+    tags: ["React.js", "Node.js", "MySQL"],
+    url: "",
+  },
+  {
+    title: "Project Pulse",
+    image: "/projectPulse.png",
+    tags: ["React.js", "Node.js", "MySQL", "Tailwind CSS"],
+    url: "",
+  },
+  {
+    title: "Portfolio",
+    image: "/adventure.png", // need to change
+    tags: ["Next.js", "Tailwind CSS"],
+    url: "",
   },
 ];
