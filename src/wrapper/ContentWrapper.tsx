@@ -7,7 +7,7 @@ export default function ContentWrapper({
 }) {
   return (
     <section
-      className={`border-2 border-neutral-700 rounded-2xl p-3 ${className}`}
+      className={`border-2 border-neutral-700 rounded-2xl p-3 bg-neutral-900/40 backdrop-blur-sm ${className}`}
     >
       {children}
     </section>

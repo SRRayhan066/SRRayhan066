@@ -17,7 +17,7 @@ export default function BlogCard({
       href={link}
       target="_blank"
       rel="noopener noreferrer"
-      className="flex gap-2 bg-neutral-800 p-2 rounded-xl cursor-pointer hover:bg-neutral-700"
+      className="flex gap-2 gradient-card p-2 rounded-xl cursor-pointer"
     >
       <div className="relative w-20 h-20 shrink-0 rounded-lg overflow-hidden border-4 border-neutral-500">
         <Image src={image!} alt="blog-image" fill className="object-cover" />
