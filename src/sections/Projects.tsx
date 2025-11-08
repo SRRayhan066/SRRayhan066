@@ -13,15 +13,19 @@ export default function Projects() {
     null
   );
   const [width, setWidth] = useState(0);
+  const [animationWidth, setAnimationWidth] = useState(0);
   const carousel = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (carousel.current) {
-      setWidth(carousel.current.scrollWidth - carousel.current.offsetWidth);
+      const scrollWidth = carousel.current.scrollWidth;
+      const offsetWidth = carousel.current.offsetWidth;
+      setWidth(scrollWidth - offsetWidth);
+      setAnimationWidth(scrollWidth / 2);
     }
   }, []);
 
-  const duplicatedProjects = [...projects, ...projects, ...projects];
+  const duplicatedProjects = [...projects, ...projects];
 
   return (
     <ContentWrapper className="col-start-5 col-span-7 row-start-7 row-span-6 flex flex-col items-center gap-6 overflow-hidden">
@@ -77,12 +81,12 @@ export default function Projects() {
                 dragConstraints={{ right: 0, left: -width }}
                 initial={{ x: 0 }}
                 animate={{
-                  x: [-width, 0],
+                  x: [0, -animationWidth],
                   transition: {
                     x: {
                       repeat: Infinity,
                       repeatType: "loop",
-                      duration: 80,
+                      duration: 40,
                       ease: "linear",
                     },
                   },

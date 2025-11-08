@@ -19,7 +19,6 @@ export default function ProjectDetails({
       exit={{ opacity: 0, y: 20 }}
       className="w-full h-full gradient-card rounded-xl p-6 relative"
     >
-      {/* Back Button */}
       <button
         onClick={onBack}
         className="absolute top-4 left-4 p-2 rounded-full gradient-card z-10 hover:scale-110 transition-transform"
@@ -27,9 +26,7 @@ export default function ProjectDetails({
         <IoArrowBack className="text-xl" />
       </button>
 
-      {/* Content */}
       <div className="w-full h-full flex flex-col gap-6 overflow-y-auto scrollbar-none">
-        {/* Image */}
         <div className="relative w-full h-60 rounded-xl overflow-hidden">
           <Image
             src={project.image}
@@ -39,7 +36,6 @@ export default function ProjectDetails({
           />
         </div>
 
-        {/* Info */}
         <div className="space-y-4">
           <div className="flex justify-between items-start">
             <h2 className="text-2xl font-bold">{project.title}</h2>
@@ -48,7 +44,6 @@ export default function ProjectDetails({
             )}
           </div>
 
-          {/* Tech Stack */}
           <div className="flex flex-wrap gap-2">
             {project.tags.map((tech, index) => (
               <span
