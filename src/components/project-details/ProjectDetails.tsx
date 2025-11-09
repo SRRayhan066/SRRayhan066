@@ -33,6 +33,7 @@ export default function ProjectDetails({
             alt={project.title}
             fill
             className="object-cover"
+            sizes="100%"
           />
         </div>
 

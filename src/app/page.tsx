@@ -1,25 +1,12 @@
-import AboutMe from "@/sections/AboutMe";
-import ProgrammingProfile from "@/sections/ProgrammingProfile";
-import Experiences from "@/sections/Experiences";
-import Skills from "@/sections/Skills";
-import Blogs from "@/sections/Blogs";
-import Projects from "@/sections/Projects";
-import ContactMe from "@/sections/ContactMe";
-import Copywrite from "@/sections/Copywrite";
+import Portfolio from "@/sections/portfolio/PortfolioSection";
+import { getMediumPosts, type MediumPost } from "@/lib/medium";
+import { Suspense } from "react";
 
-export default function Page() {
+export default async function Page() {
+  const posts: MediumPost[] = await getMediumPosts();
   return (
-    <section className="flex flex-col gap-3">
-      <section className="grid grid-cols-12 auto-rows-fr gap-3 w-full">
-        <AboutMe />
-        <ProgrammingProfile />
-        <Experiences />
-        <Skills />
-        <Blogs />
-        <Projects />
-        <ContactMe />
-      </section>
-      <Copywrite />
-    </section>
+    <Suspense fallback={null}>
+      <Portfolio blogs={posts} />
+    </Suspense>
   );
 }

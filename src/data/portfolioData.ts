@@ -1,5 +1,5 @@
 import { BiLogoCss3, BiLogoFirebase, BiLogoTypescript } from "react-icons/bi";
-import { DiMongodb, DiRedis } from "react-icons/di";
+import { DiMongodb } from "react-icons/di";
 import {
   FaBitbucket,
   FaCogs,

@@ -5,10 +5,14 @@ import SocialTag from "@/components/social-tag/SocialTag";
 import InfoTag from "@/components/info-tag/InfoTag";
 import { aboutMe } from "@/data/portfolioData";
 
-export default function AboutMe() {
-  const { name, tagLine, growth, infoTags, socialTags } = aboutMe;
+export default function AboutMe({ className }: { className: string }) {
+  const { name, growth, infoTags, socialTags } = aboutMe;
   return (
-    <ContentWrapper className="col-start-1 col-span-5 row-start-1 row-span-2 flex flex-col justify-center gap-3">
+    <ContentWrapper
+      className={`col-start-1 col-span-5 row-start-1 row-span-2 flex flex-col justify-center gap-3 ${
+        className || ""
+      }`}
+    >
       <div className="flex relative">
         <div className="flex items-center w-full gap-2">
           <div className="w-22 h-22 relative overflow-hidden rounded-3xl shrink-0">
@@ -17,6 +21,7 @@ export default function AboutMe() {
               alt="S R Rayhan's Profile Picture"
               fill
               className="object-cover"
+              sizes="100%"
             />
           </div>
           <div className="flex flex-col gap-1 overflow-hidden">

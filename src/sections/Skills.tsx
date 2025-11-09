@@ -2,9 +2,11 @@ import SkillTag from "@/components/skill-tag/SkillTag";
 import { skillSet } from "@/data/portfolioData";
 import ContentWrapper from "@/wrapper/ContentWrapper";
 
-export default function Skills() {
+export default function Skills({ className }: { className: string }) {
   return (
-    <ContentWrapper className="col-start-9 col-span-4 row-start-4 row-span-4 flex flex-col items-center gap-6">
+    <ContentWrapper
+      className={`col-start-9 col-span-4 row-start-4 row-span-4 flex flex-col items-center gap-6 ${className}`}
+    >
       <h1 className="text-xl font-bold">Technical Skills</h1>
       <div className="w-full h-full flex flex-col gap-6">
         {skillSet.map((set, index) => {

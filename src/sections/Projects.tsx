@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useState, useRef, useEffect } from "react";
 import { ProjectType } from "@/components/project-card/types";
 
-export default function Projects() {
+export default function Projects({ className }: { className: string }) {
   const [selectedProject, setSelectedProject] = useState<ProjectType | null>(
     null
   );
@@ -28,7 +28,9 @@ export default function Projects() {
   const duplicatedProjects = [...projects, ...projects];
 
   return (
-    <ContentWrapper className="col-start-6 col-span-7 row-start-1 row-span-3 flex flex-col items-center gap-6 overflow-hidden">
+    <ContentWrapper
+      className={`col-start-6 col-span-7 row-start-1 row-span-3 flex flex-col items-center gap-6 overflow-hidden ${className}`}
+    >
       {!selectedProject && (
         <motion.h1
           className="text-2xl font-bold"
