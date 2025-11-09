@@ -4,6 +4,7 @@ import Experiences from "@/sections/Experiences";
 import Skills from "@/sections/Skills";
 import Blogs from "@/sections/Blogs";
 import Projects from "@/sections/Projects";
+import ContactMe from "@/sections/ContactMe";
 
 export default function Page() {
   return (
@@ -14,6 +15,7 @@ export default function Page() {
       <Skills />
       <Blogs />
       <Projects />
+      <ContactMe />
     </section>
   );
 }
