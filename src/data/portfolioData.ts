@@ -60,6 +60,7 @@ export const programmingProfiles = [
   { name: "Codeforces", icon: SiCodeforces },
   { name: "Codechef", icon: SiCodechef },
   { name: "LeetCode", icon: SiLeetcode },
+  { name: "Stopstalk", icon: SiStopstalk },
 ];
 
 export const experiences = [
@@ -253,7 +254,7 @@ export const projects = [
   },
   {
     title: "Portfolio",
-    image: "/adventure.png", 
+    image: "/adventure.png",
     tags: ["Next.js", "Tailwind CSS"],
     description:
       "You're looking at it! This very portfolio is a project I built to showcase my skills and the work I'm passionate about. I chose Next.js for its powerful capabilities in building modern web applications, and I styled everything with Tailwind CSS for a clean, responsive, and efficient design. It's a living, breathing representation of my journey in software development, constantly evolving as I learn and create more.",

@@ -4,9 +4,9 @@ import ContentWrapper from "@/wrapper/ContentWrapper";
 
 export default function Skills() {
   return (
-    <ContentWrapper className="col-start-9 col-span-4 row-start-4 row-span-4 flex flex-col items-center gap-4">
+    <ContentWrapper className="col-start-9 col-span-4 row-start-4 row-span-4 flex flex-col items-center gap-6">
       <h1 className="text-xl font-bold">Technical Skills</h1>
-      <div className="w-full flex flex-col gap-5">
+      <div className="w-full h-full flex flex-col gap-6">
         {skillSet.map((set, index) => {
           const { title, skills } = set;
           const { icon: Icon, name } = title;
