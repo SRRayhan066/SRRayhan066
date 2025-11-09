@@ -24,7 +24,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} m-0 p-3`}>
-        <div className="max-w-[1440px] w-full mx-auto">{children}</div>
+        <div className="w-full lg:max-w-5xl xl:max-w-[1440px]  mx-auto">
+          {children}
+        </div>
       </body>
     </html>
   );

@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+@theme {
+  --breakpoint-xl: 1440px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-md: 768px;
+  --breakpoint-sm: 425px;
+  --breakpoint-xs: 375px;
+}
+
 @layer components {
   .gradient-card {
     @apply bg-linear-to-br from-neutral-800 to-neutral-900 border border-neutral-700/50 hover:from-neutral-700 hover:to-neutral-800 transition-all duration-300;

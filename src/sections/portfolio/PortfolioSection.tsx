@@ -33,15 +33,15 @@ export default function Portfolio({ blogs }: { blogs: MediumPost[] }) {
   };
 
   return (
-    <section className="flex flex-col gap-3">
+    <section className="flex flex-col gap-3 justify-center">
       <section className="grid grid-cols-12 auto-rows-fr gap-3 w-full">
         <AboutMe className={sectionClass(0)} />
-        <Projects className={sectionClass(1)} />
+        <Projects className={sectionClass(6)} />
         <Blogs blogs={blogs} className={sectionClass(2)} />
         <ProgrammingProfile className={sectionClass(3)} />
         <Skills className={sectionClass(4)} />
         <Experiences className={sectionClass(5)} />
-        <ContactMe className={sectionClass(6)} />
+        <ContactMe className={sectionClass(1)} />
       </section>
       <div className={sectionClass(7)}>
         <Copywrite />
