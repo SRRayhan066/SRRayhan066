@@ -28,7 +28,7 @@ export default function Projects() {
   const duplicatedProjects = [...projects, ...projects];
 
   return (
-    <ContentWrapper className="col-start-5 col-span-7 row-start-7 row-span-6 flex flex-col items-center gap-6 overflow-hidden">
+    <ContentWrapper className="col-start-6 col-span-7 row-start-1 row-span-3 flex flex-col items-center gap-6 overflow-hidden">
       {!selectedProject && (
         <motion.h1
           className="text-2xl font-bold"

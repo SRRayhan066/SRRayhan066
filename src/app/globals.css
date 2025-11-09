@@ -4,6 +4,24 @@
   .gradient-card {
     @apply bg-linear-to-br from-neutral-800 to-neutral-900 border border-neutral-700/50 hover:from-neutral-700 hover:to-neutral-800 transition-all duration-300;
   }
+
+  textarea::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  textarea::-webkit-scrollbar-track {
+    background: #262626;
+    border-radius: 8px;
+  }
+
+  textarea::-webkit-scrollbar-thumb {
+    background: #525252;
+    border-radius: 8px;
+  }
+
+  textarea::-webkit-scrollbar-thumb:hover {
+    background: #737373;
+  }
 }
 
 :root {
