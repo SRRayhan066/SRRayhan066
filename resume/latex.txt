@@ -1,0 +1,152 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-2pt}}}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-6pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-6pt}
+}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Md Shafikul Rahman} \\ \vspace{4pt}
+    \textbf{\Large \scshape Associate Software Engineer} \\ \vspace{4pt}
+    \small \faPhone\ +8801778054087 ~ 
+    \href{mailto:shafikulrahman66@gmail.com}{\faEnvelope\ {shafikulrahman66@gmail.com}} ~ 
+    \href{https://www.linkedin.com/in/s-r-rayhan066/}{\faLinkedin\ {linkedin.com/in/s-r-rayhan066}} 
+\end{center}
+
+
+%-----------SKILLS-----------
+\section{Skills}
+\textbf{Programming Languages:} C/C++, Java, JavaScript  \\
+\textbf{Web Technology:} HTML, CSS, React.js, Next.js, Nest.js, Tailwind CSS \\
+\textbf{Databases \& Caching:} MySQL, MongoDB, Redis \\
+\textbf{Version Control \& Collaboration:} Git, GitHub, Bitbucket
+
+%-----------EXPERIENCES-----------
+\section{Experiences}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Associate Software Engineer}{June 2025 -- Present}
+    {Shellbeehaken Ltd}{}
+    \resumeItemListStart
+      \resumeItem{Developed and contributed to a live project, Kriyakarak, delivering end-to-end functionality.}
+      \resumeItem{Designed and implemented multiple backend services and frontend interfaces, enhancing system usability.}
+      \resumeItem{Familiar with concepts including clustering, rate limiting, caching, and multi-instance data synchronization.}
+    \resumeItemListEnd
+
+    \resumeSubheading
+    {Intern Software Engineer}{December 2024 -- May 2025}
+    {Shellbeehaken Ltd}{}
+    \resumeItemListStart
+      \resumeItem{Started with HTML \& CSS, worked on assignments to build a solid foundation in web development.}
+      \resumeItem{Learned Git \& GitHub to manage version control and collaborate on projects smoothly.}
+      \resumeItem{Created a dice-based game using JavaScript to apply core programming concepts in a fun way.}
+      \resumeItem{Built a Snake \& Ladders game with React.js, improving my understanding of components and state management }
+      \resumeItem{Built Twitter clone with Next.js exploring full-stack development and server-side renderinig.}
+    
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+  \resumeProjectHeading
+      {\textbf{Eco-Sync} $|$ \underline{\emph{source code}}}{April 2024 -- May 2024}
+      \resumeItemListStart
+        \resumeItem{Developed a full-stack web application for DNCC’s waste management using React.js, Node.js, and MySQL.}
+        \resumeItem{Designed and implemented all web pages, ensuring a responsive and user-friendly interface.}
+        \resumeItem{Integrated backend services with frontend interfaces for seamless task assignment, role management, and billing workflows.}
+      \resumeItemListEnd
+  \resumeProjectHeading
+      {\textbf{SUST Football Tournament Management System} $|$ \underline{\emph{source code}}}{March 2024 -- April 2024}
+      \resumeItemListStart
+        \resumeItem{Developed a web application to manage match schedules, player profiles, manager information, and tournament data.}
+        \resumeItem{Built using React.js, Node.js, and MySQL for a full-stack solution.}
+        \resumeItem{Designed and implemented all web pages to ensure a user-friendly interface.}
+        \resumeItem{Implemented backend services including JWT-based authentication and middleware for route protection.}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{Link's Adventure: A Lone Warrior} $|$ \underline{\emph{source code}}}{April 2022 -- May 2022}
+      \resumeItemListStart
+        \resumeItem{Developed a 2D game where the player saves the princess by defeating enemies and collecting keys to unlock the jail.}
+        \resumeItem{Built using LibGDX and Java for game logic and graphics.}
+        \resumeItem{Designed the game interface for intuitive player interaction.}
+        \resumeItem{Implemented movement mechanics and multiple combat action logic to enhance game play.}
+      \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------Problem Solving-----------
+\section{Problem Solving}
+Total 600+ problem solved and continuing.
+\resumeItemListStart
+  \resumeItem{\textbf{Codeforces:} Pupil (Max rating 1213)}
+  \resumeItem{\textbf{Codechef:} 3* (Max rating 1620)}
+  \resumeItem{\textbf{Leetcode}}
+  \resumeItem{\textbf{Vjudge}}
+\resumeItemListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {B.Sc. in Software Engineering}{2020 -- 2025}
+    {Shahjalal University of Science and Technology, Sylhet}{CGPA: 3.57 / 4}
+\resumeSubHeadingListEnd
+
+\end{document}
