@@ -27,37 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2059%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-🌆 Daytime                240 commits         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-🌃 Evening                422 commits         ███████████░░░░░░░░░░░░░░   44.47 % 
-🌙 Night                  171 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
