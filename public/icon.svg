@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Deep Slate/Navy -->
+  <rect width="32" height="32" rx="6" fill="#0f172a"/>
+  
+  <!-- The "R": Bold, Sans-Serif, Professional -->
+  <!-- Path for a clear "R" -->
+  <path d="M10 22V10H17C19.2091 10 21 11.7909 21 14C21 16.2091 19.2091 18 17 18H10L21 22" 
+        stroke="#f8fafc" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  
+  <!-- Subtle Cyan Accent (Code Dot) -->
+  <circle cx="24" cy="22" r="2" fill="#06b6d4"/>
+</svg>
