@@ -1,7 +1,7 @@
 import { HtmlTag } from "./html-tag";
 import { HtmlComment } from "./html-comment";
 import { LineNumbers } from "./line-numbers";
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail, SquarePen } from "lucide-react";
 
 const socials = [
   {
@@ -15,6 +15,12 @@ const socials = [
     label: "LinkedIn",
     href: "https://linkedin.com/in/s-r-rayhan066",
     handle: "/in/s-r-rayhan066",
+  },
+  {
+    icon: SquarePen,
+    label: "Medium",
+    href: "https://medium.com/@shafikulrahman66",
+    handle: "@shafikulrahman66",
   },
   {
     icon: Mail,

@@ -6,7 +6,7 @@ const experiences = [
   {
     role: "Associate Software Engineer",
     company: "Shellbeehaken Ltd",
-    url: "#",
+    url: "https://shellbeehaken.com/",
     period: "June 2025 – Present",
     points: [
       "Developed and contributed to a live project, Kriyakarak, delivering end-to-end functionality.",
@@ -18,7 +18,7 @@ const experiences = [
   {
     role: "Intern Software Engineer",
     company: "Shellbeehaken Ltd",
-    url: "#",
+    url: "https://shellbeehaken.com/",
     period: "December 2024 – May 2025",
     points: [
       "Built a Snake & Ladders game with React.js, deepening understanding of components and state management.",
@@ -65,6 +65,8 @@ export function ExperienceSection() {
                           {"@ "}
                           <a
                             href={exp.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="hover:underline underline-offset-4"
                           >
                             {exp.company}
@@ -91,7 +93,7 @@ export function ExperienceSection() {
                         {exp.tech.map((t) => (
                           <span
                             key={t}
-                            className="text-xs px-2.5 py-1 border border-primary/20 text-primary/80 bg-primary/5"
+                            className="text-xs px-2.5 py-1 border border-primary/20 text-primary bg-primary/5"
                           >
                             {t}
                           </span>

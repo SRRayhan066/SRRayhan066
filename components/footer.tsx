@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t border-border/30 py-3">
       <div className="mx-auto max-w-5xl px-6">
         <div className="flex flex-col items-center gap-3 text-center">
-          <div className="text-xs text-comment leading-relaxed max-w-sm mx-auto">
+          <div className="text-xs text-muted-foreground leading-relaxed max-w-sm mx-auto">
             <HtmlTag
               tag="footer"
               inline
