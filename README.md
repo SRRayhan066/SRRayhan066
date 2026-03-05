@@ -34,10 +34,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-🌆 Daytime                306 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-🌃 Evening                605 commits         ████████████░░░░░░░░░░░░░   46.54 % 
-🌙 Night                  233 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+🌆 Daytime                312 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+🌃 Evening                608 commits         ████████████░░░░░░░░░░░░░   46.20 % 
+🌙 Night                  237 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 ```
 
 
@@ -47,19 +47,20 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               4 hrs 16 mins       ████████████████████████░   97.36 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript               5 hrs 45 mins       ████████████████████████░   97.99 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 23 mins       █████████████████████████   100.00 % 
+Antigravity              5 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-library-management       2 hrs 32 mins       ██████████████░░░░░░░░░░░   57.96 % 
-b_XrnRtYQcb2J-177221275561 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
-srrayhan066              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+library-management       4 hrs 2 mins        █████████████████░░░░░░░░   68.63 % 
+b_XrnRtYQcb2J-177221275561 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+srrayhan066              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 💻 Operating System: 
-Linux                    4 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
