@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.84%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-🌆 Daytime                312 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-🌃 Evening                608 commits         ████████████░░░░░░░░░░░░░   46.20 % 
-🌙 Night                  237 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+🌆 Daytime                312 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+🌃 Evening                621 commits         ████████████░░░░░░░░░░░░░   46.73 % 
+🌙 Night                  237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 ```
 
 
@@ -47,20 +47,20 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               5 hrs 45 mins       ████████████████████████░   97.99 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               7 hrs 54 mins       █████████████████████████   98.53 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Antigravity              5 hrs 52 mins       █████████████████████████   100.00 % 
+Antigravity              8 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-library-management       4 hrs 2 mins        █████████████████░░░░░░░░   68.63 % 
-b_XrnRtYQcb2J-177221275561 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-srrayhan066              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+library-management       6 hrs 10 mins       ███████████████████░░░░░░   77.03 % 
+b_XrnRtYQcb2J-177221275561 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+srrayhan066              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 💻 Operating System: 
-Linux                    5 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
