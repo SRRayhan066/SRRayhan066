@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.84%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-🌆 Daytime                315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-🌃 Evening                621 commits         ████████████░░░░░░░░░░░░░   46.62 % 
-🌙 Night                  237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+🌆 Daytime                315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+🌃 Evening                624 commits         ████████████░░░░░░░░░░░░░   46.74 % 
+🌙 Night                  237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 ```
 
 
@@ -47,22 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               4 hrs 55 mins       ████████████████████░░░░░   79.22 % 
-Python                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               4 hrs 44 mins       ██████████████████░░░░░░░   70.75 % 
+Python                   1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 56 mins       ████████████████████░░░░░   79.51 % 
-VS Code                  1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Antigravity              4 hrs 45 mins       ██████████████████░░░░░░░   71.01 % 
+VS Code                  1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
 
 🐱‍💻 Projects: 
-library-management       4 hrs 56 mins       ████████████████████░░░░░   79.51 % 
-ai-learning              1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+library-management       4 hrs 45 mins       ██████████████████░░░░░░░   71.01 % 
+ai-learning              1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
 
 💻 Operating System: 
-Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
