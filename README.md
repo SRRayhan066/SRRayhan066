@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,22 +47,23 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               4 hrs 44 mins       ██████████████████░░░░░░░   70.75 % 
-Python                   1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               4 hrs 46 mins       ███████████████░░░░░░░░░░   61.61 % 
+Python                   2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 45 mins       ██████████████████░░░░░░░   71.01 % 
-VS Code                  1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Antigravity              5 hrs 47 mins       ███████████████████░░░░░░   74.72 % 
+VS Code                  1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
 
 🐱‍💻 Projects: 
-library-management       4 hrs 45 mins       ██████████████████░░░░░░░   71.01 % 
-ai-learning              1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+library-management       4 hrs 47 mins       ███████████████░░░░░░░░░░   61.84 % 
+ai-learning              1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+house-price-prediction   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 💻 Operating System: 
-Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
