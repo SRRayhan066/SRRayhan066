@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-🌆 Daytime                315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-🌃 Evening                627 commits         ████████████░░░░░░░░░░░░░   46.86 % 
-🌙 Night                  237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+🌆 Daytime                315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+🌃 Evening                628 commits         ████████████░░░░░░░░░░░░░   46.83 % 
+🌙 Night                  239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 ```
 
 
@@ -47,23 +47,23 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   4 hrs 34 mins       ██████████████░░░░░░░░░░░   57.19 % 
-TypeScript               3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python                   4 hrs 38 mins       ███████████████████░░░░░░   76.29 % 
+TypeScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Antigravity              6 hrs 2 mins        ███████████████████░░░░░░   75.50 % 
-VS Code                  1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Antigravity              4 hrs 7 mins        █████████████████░░░░░░░░   67.82 % 
+VS Code                  1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   32.18 % 
 
 🐱‍💻 Projects: 
-library-management       3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.86 % 
-house-price-prediction   2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.49 % 
-ai-learning              1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+house-price-prediction   2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.28 % 
+ai-learning              1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   32.36 % 
+library-management       1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
 
 💻 Operating System: 
-Linux                    7 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
