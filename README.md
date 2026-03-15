@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-🌆 Daytime                315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-🌃 Evening                629 commits         ████████████░░░░░░░░░░░░░   46.87 % 
-🌙 Night                  239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+🌃 Evening                633 commits         ████████████░░░░░░░░░░░░░   46.99 % 
+🌙 Night                  239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 ```
 
 
@@ -47,34 +47,34 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   4 hrs 13 mins       ███████████████████░░░░░░   74.50 % 
-TypeScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   4 hrs 48 mins       ████████████████████░░░░░   79.03 % 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 13 mins       ███████████████████░░░░░░   74.36 % 
-VS Code                  1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Antigravity              3 hrs 40 mins       ███████████████░░░░░░░░░░   60.37 % 
+VS Code                  2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
 
 🐱‍💻 Projects: 
-house-price-prediction   3 hrs 5 mins        ██████████████░░░░░░░░░░░   54.50 % 
-ai-learning              1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-library-management       1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-titanic-survival-predicti6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+house-price-prediction   3 hrs 5 mins        █████████████░░░░░░░░░░░░   50.85 % 
+titanic-survival-predicti1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+ai-learning              40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+library-management       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 💻 Operating System: 
-Linux                    5 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
