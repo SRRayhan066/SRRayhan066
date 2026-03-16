@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,24 +47,23 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   4 hrs 48 mins       ████████████████████░░░░░   79.03 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   4 hrs 8 mins        █████████████████████░░░░   85.40 % 
+Git Config               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 40 mins       ███████████████░░░░░░░░░░   60.37 % 
-VS Code                  2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
+Antigravity              3 hrs 6 mins        ████████████████░░░░░░░░░   64.03 % 
+VS Code                  1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.97 % 
 
 🐱‍💻 Projects: 
-house-price-prediction   3 hrs 5 mins        █████████████░░░░░░░░░░░░   50.85 % 
-titanic-survival-predicti1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-ai-learning              40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-library-management       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+house-price-prediction   3 hrs 5 mins        ████████████████░░░░░░░░░   63.80 % 
+titanic-survival-predicti1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.97 % 
+ai-learning              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    6 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
