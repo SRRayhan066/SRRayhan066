@@ -47,23 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████████████████░░░░   82.13 % 
-Git Config               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Python                   1 hr 31 mins        ██████████████████░░░░░░░   73.17 % 
+Git Config               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 14 mins       ██████████████░░░░░░░░░░░   56.23 % 
-VS Code                  1 hr 44 mins        ███████████░░░░░░░░░░░░░░   43.77 % 
+VS Code                  1 hr 44 mins        █████████████████████░░░░   83.73 % 
+Antigravity              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 
 🐱‍💻 Projects: 
-house-price-prediction   2 hrs 13 mins       ██████████████░░░░░░░░░░░   55.95 % 
-titanic-survival-predicti1 hr 44 mins        ███████████░░░░░░░░░░░░░░   43.77 % 
-ai-learning              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+titanic-survival-predicti1 hr 44 mins        █████████████████████░░░░   83.73 % 
+house-price-prediction   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 
 💻 Operating System: 
-Linux                    3 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
