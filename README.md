@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.86%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-🌃 Evening                633 commits         ████████████░░░░░░░░░░░░░   46.99 % 
-🌙 Night                  239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+🌃 Evening                633 commits         ████████████░░░░░░░░░░░░░   46.89 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 ```
 
 
@@ -47,33 +47,31 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 27 mins        █████████████████░░░░░░░░   69.79 % 
-Text                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python                   2 hrs 22 mins       ██████████████████░░░░░░░   73.48 % 
+Text                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        ████████████████████████░   95.36 % 
-Antigravity              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-titanic-survival-predicti1 hr 44 mins        █████████████████████░░░░   83.63 % 
-learning-rag-pipeline    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-house-price-prediction   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+titanic-survival-predicti1 hr 38 mins        █████████████░░░░░░░░░░░░   50.52 % 
+learning-rag-pipeline    1 hr 36 mins        ████████████░░░░░░░░░░░░░   49.48 % 
 
 💻 Operating System: 
-Linux                    2 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 ```
 
 
