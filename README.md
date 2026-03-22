@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,21 +47,20 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ██████████████████░░░░░░░   73.48 % 
-Text                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   1 hr 10 mins        ██████████████████░░░░░░░   71.00 % 
+Text                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-titanic-survival-predicti1 hr 38 mins        █████████████░░░░░░░░░░░░   50.52 % 
-learning-rag-pipeline    1 hr 36 mins        ████████████░░░░░░░░░░░░░   49.48 % 
+learning-rag-pipeline    1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
