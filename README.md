@@ -34,10 +34,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-🌃 Evening                633 commits         ████████████░░░░░░░░░░░░░   46.89 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+🌃 Evening                634 commits         ████████████░░░░░░░░░░░░░   46.93 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 ```
 
 
@@ -47,20 +47,20 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ██████████████████░░░░░░░   71.00 % 
-Text                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python                   1 hr 18 mins        ██████████████████░░░░░░░   73.14 % 
+Text                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learning-rag-pipeline    1 hr 39 mins        █████████████████████████   100.00 % 
+learning-rag-pipeline    1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
