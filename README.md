@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌃 Evening                636 commits         ████████████░░░░░░░░░░░░░   47.01 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌃 Evening                637 commits         ████████████░░░░░░░░░░░░░   47.05 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 ```
 
 
@@ -47,20 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 51 mins        ████████████████████░░░░░   79.36 % 
-Text                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   2 hrs 16 mins       ████████████████████░░░░░   78.14 % 
+Text                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 20 mins       ████████████████████░░░░░   80.38 % 
+Antigravity              34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
 
 🐱‍💻 Projects: 
-learning-rag-pipeline    2 hrs 20 mins       █████████████████████████   100.00 % 
+learning-rag-pipeline    2 hrs 45 mins       ████████████████████████░   94.63 % 
+house-price-prediction   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
