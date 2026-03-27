@@ -34,10 +34,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-🌃 Evening                637 commits         ████████████░░░░░░░░░░░░░   47.05 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+🌞 Morning                166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+🌆 Daytime                318 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌃 Evening                637 commits         ████████████░░░░░░░░░░░░░   46.80 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 ```
 
 
@@ -47,22 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   2 hrs 16 mins       ████████████████████░░░░░   78.14 % 
-Text                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   3 hrs 29 mins       ████████████████████░░░░░   78.23 % 
+Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       ████████████████████░░░░░   80.38 % 
-Antigravity              34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+VS Code                  3 hrs 48 mins       █████████████████████░░░░   84.98 % 
+Antigravity              40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 
 🐱‍💻 Projects: 
-learning-rag-pipeline    2 hrs 45 mins       ████████████████████████░   94.63 % 
-house-price-prediction   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+learning-rag-pipeline    4 hrs 19 mins       ████████████████████████░   96.51 % 
+house-price-prediction   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Linux                    2 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
