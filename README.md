@@ -47,20 +47,19 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 38 mins        █████████████████░░░░░░░░   69.19 % 
-Markdown                 32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Python                   1 hr 13 mins        █████████████████░░░░░░░░   67.95 % 
+Markdown                 32 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        ██████████████████░░░░░░░   71.76 % 
-Antigravity              40 mins             ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+VS Code                  1 hr 42 mins        ████████████████████████░   94.42 % 
+Antigravity              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🐱‍💻 Projects: 
-learning-rag-pipeline    2 hrs 13 mins       ███████████████████████░░   93.44 % 
-house-price-prediction   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+learning-rag-pipeline    1 hr 48 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
