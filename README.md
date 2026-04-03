@@ -47,19 +47,16 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████████░░░░░░░░   67.95 % 
-Markdown                 32 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        ████████████████████████░   94.42 % 
-Antigravity              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-learning-rag-pipeline    1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
