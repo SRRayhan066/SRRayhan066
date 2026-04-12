@@ -34,10 +34,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌆 Daytime                318 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-🌃 Evening                637 commits         ████████████░░░░░░░░░░░░░   46.80 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+🌞 Morning                166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+🌃 Evening                639 commits         ████████████░░░░░░░░░░░░░   46.85 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 ```
 
 
@@ -47,16 +47,20 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 4 mins         ██████████████████░░░░░░░   73.91 % 
+Text                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Git Config               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+learning-rag-pipeline    1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
