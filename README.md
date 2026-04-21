@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-🌃 Evening                640 commits         ████████████░░░░░░░░░░░░░   46.78 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+🌃 Evening                641 commits         ████████████░░░░░░░░░░░░░   46.82 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 ```
 
 
@@ -47,19 +47,19 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    12 mins             ██████████████░░░░░░░░░░░   55.40 % 
-Python                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Python                   31 mins             ████████████░░░░░░░░░░░░░   47.85 % 
+Bash                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Text                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-master-moshai-rag        21 mins             █████████████████████████   100.00 % 
+master-moshai-rag        1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
