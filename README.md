@@ -47,19 +47,21 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   31 mins             ████████████░░░░░░░░░░░░░   47.85 % 
-Bash                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Text                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+C++                      1 hr 33 mins        ██████████████░░░░░░░░░░░   57.92 % 
+Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-master-moshai-rag        1 hr 5 mins         █████████████████████████   100.00 % 
+educational_round_189    1 hr 36 mins        ███████████████░░░░░░░░░░   59.49 % 
+master-moshai-rag        1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   40.51 % 
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
+Linux                    2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
