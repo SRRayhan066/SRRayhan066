@@ -27,17 +27,17 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-🌃 Evening                641 commits         ████████████░░░░░░░░░░░░░   46.82 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+🌃 Evening                643 commits         ████████████░░░░░░░░░░░░░   46.90 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
 ```
 
 
@@ -47,21 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      1 hr 33 mins        ██████████████░░░░░░░░░░░   57.92 % 
-Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+C++                      2 hrs 24 mins       ████████████████░░░░░░░░░   62.15 % 
+Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-educational_round_189    1 hr 36 mins        ███████████████░░░░░░░░░░   59.49 % 
-master-moshai-rag        1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   40.51 % 
+educational_round_189    1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   41.23 % 
+master-moshai-rag        1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.76 % 
+cf-1033-div2             51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
 
 💻 Operating System: 
-Linux                    2 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
