@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,22 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      4 hrs 21 mins       ███████████████████░░░░░░   74.77 % 
-Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+C++                      5 hrs 7 mins        █████████████████████░░░░   82.23 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cf-1033-div2             2 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.01 % 
-educational_round_189    1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-master-moshai-rag        1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+cf-1033-div2             3 hrs 34 mins       ██████████████░░░░░░░░░░░   57.25 % 
+educational_round_189    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+master-moshai-rag        1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 
 💻 Operating System: 
-Linux                    5 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
