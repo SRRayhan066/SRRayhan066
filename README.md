@@ -34,10 +34,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-🌃 Evening                643 commits         ████████████░░░░░░░░░░░░░   46.90 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+🌃 Evening                644 commits         ████████████░░░░░░░░░░░░░   46.94 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 ```
 
 
@@ -47,20 +47,16 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      3 hrs 36 mins       ███████████████████████░░   91.45 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C++                      2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cf-1033-div2             3 hrs 36 mins       ███████████████████████░░   91.45 % 
-master-moshai-rag        20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+cf-1033-div2             2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
