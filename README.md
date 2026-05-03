@@ -47,16 +47,17 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      43 mins             █████████████████████████   100.00 % 
+C++                      33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cf-1033-div2             43 mins             █████████████████████████   100.00 % 
+cf_round_975             31 mins             ███████████████████████░░   93.57 % 
+cf-1033-div2             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 💻 Operating System: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+Linux                    33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
