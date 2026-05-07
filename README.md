@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,21 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      2 hrs 50 mins       █████████████████████░░░░   83.14 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+C++                      2 hrs 51 mins       █████████████████████░░░░   82.98 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cf-100-1200              1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.55 % 
-cf_round_978             45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-ai-speech                34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-cf_round_975             31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+cf-100-1200              1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.67 % 
+cf_round_978             45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+ai-speech                35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+cf_round_975             31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 
 💻 Operating System: 
-Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
