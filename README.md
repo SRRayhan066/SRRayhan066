@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,20 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      1 hr 24 mins        ██████████████████░░░░░░░   70.58 % 
-Markdown                 27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown                 1 hr 5 mins         ██████████████████████░░░   88.50 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+Antigravity              37 mins             █████████████░░░░░░░░░░░░   51.20 % 
+VS Code                  36 mins             ████████████░░░░░░░░░░░░░   48.80 % 
 
 🐱‍💻 Projects: 
-cf-100-1200              1 hr 24 mins        ██████████████████░░░░░░░   70.58 % 
-ai-speech                35 mins             ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+nodejs-mastery           37 mins             █████████████░░░░░░░░░░░░   51.20 % 
+ai-speech                35 mins             ████████████░░░░░░░░░░░░░   47.52 % 
+cf-100-1200              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
