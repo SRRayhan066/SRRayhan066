@@ -47,20 +47,21 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 37 mins             █████████████████████░░░░   84.21 % 
-JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Markdown                 56 mins             ██████████████████████░░░   88.87 % 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 🔥 Editors: 
-Antigravity              44 mins             █████████████████████████   99.94 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Antigravity              1 hr 3 mins         █████████████████████████   99.96 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-nodejs-mastery           37 mins             █████████████████████░░░░   84.16 % 
-local-chat-app           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-ai-speech                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+nodejs-mastery           37 mins             ███████████████░░░░░░░░░░   59.33 % 
+health-track             18 mins             ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+local-chat-app           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+ai-speech                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
