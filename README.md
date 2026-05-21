@@ -47,21 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 38 mins             █████████████████████░░░░   84.53 % 
-JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+JavaScript               38 mins             ████████████░░░░░░░░░░░░░   46.72 % 
+Markdown                 38 mins             ████████████░░░░░░░░░░░░░   46.47 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-Antigravity              45 mins             █████████████████████████   99.94 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  44 mins             █████████████░░░░░░░░░░░░   53.53 % 
+Antigravity              38 mins             ████████████░░░░░░░░░░░░░   46.47 % 
 
 🐱‍💻 Projects: 
-health-track             38 mins             █████████████████████░░░░   83.49 % 
-local-chat-app           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-med-ai                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-ai-speech                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+node-practice            44 mins             █████████████░░░░░░░░░░░░   53.53 % 
+health-track             38 mins             ███████████░░░░░░░░░░░░░░   45.93 % 
+med-ai                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
