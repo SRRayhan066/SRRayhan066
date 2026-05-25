@@ -47,22 +47,18 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               38 mins             ██████████████████░░░░░░░   70.49 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JavaScript               38 mins             ██████████████████████░░░   87.28 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-VS Code                  44 mins             ████████████████████░░░░░   80.76 % 
-Antigravity              10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-node-practice            44 mins             ████████████████████░░░░░   80.76 % 
-health-track             10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-med-ai                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+node-practice            44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
