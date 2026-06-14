@@ -29,15 +29,15 @@ const SRRayhan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.88%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-🌃 Evening                651 commits         ████████████░░░░░░░░░░░░░   47.21 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌃 Evening                653 commits         ████████████░░░░░░░░░░░░░   47.28 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
 ```
 
 
@@ -47,28 +47,34 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     10 mins             █████████████░░░░░░░░░░░░   51.26 % 
-JavaScript               10 mins             ████████████░░░░░░░░░░░░░   48.74 % 
+JavaScript               53 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
+Git Config               30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-speech                10 mins             █████████████░░░░░░░░░░░░   51.26 % 
-node-practice            10 mins             ████████████░░░░░░░░░░░░░   48.74 % 
+backend-practice         1 hr 31 mins        ███████████████████░░░░░░   76.03 % 
+ai-speech                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+node-practice            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+reading-large-file       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+nodejs-mastery           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
