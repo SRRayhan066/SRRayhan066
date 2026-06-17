@@ -47,24 +47,23 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               53 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
-Git Config               30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+JavaScript               43 mins             ███████████░░░░░░░░░░░░░░   43.80 % 
+Git Config               30 mins             ████████░░░░░░░░░░░░░░░░░   30.19 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend-practice         1 hr 31 mins        ███████████████████░░░░░░   76.03 % 
-ai-speech                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-node-practice            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-reading-large-file       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-nodejs-mastery           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+backend-practice         1 hr 31 mins        ███████████████████████░░   91.74 % 
+reading-large-file       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+nodejs-mastery           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Linux                    2 hrs               █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
