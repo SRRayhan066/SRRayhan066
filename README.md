@@ -29,15 +29,15 @@ const SRRayhan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.91%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-🌆 Daytime                319 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-🌃 Evening                666 commits         ████████████░░░░░░░░░░░░░   47.78 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌆 Daytime                323 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+🌃 Evening                683 commits         ████████████░░░░░░░░░░░░░   48.27 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -47,19 +47,21 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-CSS                      1 hr 22 mins        ███████████░░░░░░░░░░░░░░   44.56 % 
-JavaScript               1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.05 % 
-Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.12 % 
+CSS                      1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         3 hrs 4 mins        █████████████████████████   100.00 % 
+bcs-intelligence         5 hrs 9 mins        ███████████████████████░░   91.52 % 
+backend-practice         28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
