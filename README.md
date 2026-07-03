@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.97%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,22 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               16 hrs 13 mins      █████████████████████░░░░   82.80 % 
-CSS                      2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               15 hrs 8 mins       █████████████████████░░░░   83.95 % 
+CSS                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         19 hrs 19 mins      █████████████████████████   98.59 % 
-Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+bcs-intelligence         17 hrs 45 mins      █████████████████████████   98.47 % 
+Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 runSubagent-17826254630330 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    19 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
