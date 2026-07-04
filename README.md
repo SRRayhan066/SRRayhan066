@@ -47,22 +47,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               15 hrs 8 mins       █████████████████████░░░░   83.95 % 
-CSS                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               11 hrs 17 mins      █████████████████████░░░░   85.38 % 
+CSS                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  13 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         17 hrs 45 mins      █████████████████████████   98.47 % 
-Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+bcs-intelligence         12 hrs 56 mins      ████████████████████████░   97.92 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 runSubagent-17826254630330 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    18 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    13 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
