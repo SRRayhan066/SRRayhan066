@@ -34,10 +34,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-🌆 Daytime                350 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-🌃 Evening                782 commits         █████████████░░░░░░░░░░░░   50.65 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌞 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+🌆 Daytime                350 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+🌃 Evening                783 commits         █████████████░░░░░░░░░░░░   50.68 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 ```
 
 
@@ -47,22 +47,20 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               7 hrs 6 mins        ██████████████████████░░░   87.02 % 
-CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               1 hr 33 mins        █████████████████████░░░░   83.64 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         7 hrs 53 mins       ████████████████████████░   96.63 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-runSubagent-17826254630330 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+bcs-intelligence         1 hr 35 mins        █████████████████████░░░░   85.39 % 
+Unknown Project          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 
 💻 Operating System: 
-Linux                    8 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
