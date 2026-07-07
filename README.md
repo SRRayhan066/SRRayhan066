@@ -27,7 +27,7 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.97%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,20 +47,18 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        █████████████████████░░░░   83.64 % 
-Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript               1 hr 33 mins        ████████████████████████░   97.94 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         1 hr 35 mins        █████████████████████░░░░   85.39 % 
-Unknown Project          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+bcs-intelligence         1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
