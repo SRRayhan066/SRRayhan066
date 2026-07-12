@@ -34,10 +34,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-🌆 Daytime                350 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌃 Evening                785 commits         █████████████░░░░░░░░░░░░   50.74 % 
-🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+🌞 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+🌆 Daytime                354 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+🌃 Evening                795 commits         █████████████░░░░░░░░░░░░   50.93 % 
+🌙 Night                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 ```
 
 
@@ -47,18 +47,18 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               37 mins             ██████████████░░░░░░░░░░░   55.30 % 
-CSS                      30 mins             ███████████░░░░░░░░░░░░░░   44.70 % 
+JavaScript               3 hrs 49 mins       ██████████████████████░░░   86.99 % 
+CSS                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         1 hr 8 mins         █████████████████████████   100.00 % 
+bcs-intelligence         4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
+Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
