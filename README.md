@@ -47,17 +47,17 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               4 hrs 34 mins       ██████████████████████░░░   88.11 % 
-CSS                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JavaScript               4 hrs 17 mins       ████████████████████████░   96.79 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         5 hrs 11 mins       █████████████████████████   100.00 % 
+bcs-intelligence         4 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
