@@ -27,9 +27,9 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,47 +49,47 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               6 hrs 43 mins       ████████████████████░░░░░   79.74 % 
-CSS                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+JavaScript               6 hrs 53 mins       ████████████████████░░░░░   80.12 % 
+CSS                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 53 mins       ███████████████░░░░░░░░░░   58.03 % 
-Claude Code              3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.97 % 
+VS Code                  4 hrs 56 mins       ██████████████░░░░░░░░░░░   57.38 % 
+Claude Code              3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         8 hrs 26 mins       █████████████████████████   100.00 % 
+bcs-intelligence         8 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 5 mins (84.09%)
+⏱ AI Coding Time: 7 hrs 13 mins (83.95%)
 
-✍️ 3,112 lines written by AI, 391 lines written by hand (88.84% AI-written)
+✍️ 3,175 lines written by AI, 391 lines written by hand (89.04% AI-written)
 
-🔤 151,447,628 Input Tokens, 326,132 Output Tokens
+🔤 157,191,337 Input Tokens, 331,316 Output Tokens
 
-💵 $462.21 Estimated AI Cost This Week
+💵 $479.51 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 93 AI Prompts
+🧠 11 AI Sessions, 94 AI Prompts
 
-Sonnet                   2,354 lines         █████████████████░░░░░░░░   69.44 % 
-Github-Copilot           557 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Opus                     345 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Opencode-Cli             134 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Sonnet                   2,417 lines         ██████████████████░░░░░░░   70.00 % 
+Github-Copilot           557 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Opus                     345 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Opencode-Cli             134 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.84% of written lines came from AI
-📝 Concise Prompter — average 382 characters per prompt
+🤖 AI-Driven — 89.04% of written lines came from AI
+📝 Concise Prompter — average 381 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 11.37% of changed lines were hand-edited
+🚀 High AI Trust — 11.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
