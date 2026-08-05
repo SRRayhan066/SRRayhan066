@@ -31,15 +31,15 @@ const SRRayhan = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.33%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-🌆 Daytime                511 commits         ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-🌃 Evening                1180 commits        ██████████████░░░░░░░░░░░   55.24 % 
-🌙 Night                  240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌞 Morning                211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+🌆 Daytime                533 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+🌃 Evening                1231 commits        ██████████████░░░░░░░░░░░   55.58 % 
+🌙 Night                  240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 ```
 
 
@@ -49,45 +49,44 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               9 hrs 24 mins       ██████████████████████░░░   87.49 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               8 hrs 45 mins       ██████████████████████░░░   89.70 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 9 mins        ███████████████████░░░░░░   75.87 % 
-VS Code                  2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Claude Code              6 hrs 52 mins       ██████████████████░░░░░░░   70.34 % 
+VS Code                  2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         10 hrs 45 mins      █████████████████████████   100.00 % 
+bcs-intelligence         9 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 51 mins (91.74%)
+⏱ AI Coding Time: 8 hrs 33 mins (87.7%)
 
-✍️ 7,716 lines written by AI, 24 lines written by hand (99.69% AI-written)
+✍️ 8,107 lines written by AI, 24 lines written by hand (99.7% AI-written)
 
-🔤 205,856,514 Input Tokens, 645,227 Output Tokens
+🔤 152,510,366 Input Tokens, 516,196 Output Tokens
 
-💵 $714.96 Estimated AI Cost This Week
+💵 $561.04 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 69 AI Prompts
+🧠 15 AI Sessions, 58 AI Prompts
 
-Opus                     6,299 lines         ██████████████████░░░░░░░   72.01 % 
-Sonnet                   2,449 lines         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Opus                     7,375 lines         ████████████████████░░░░░   81.04 % 
+Sonnet                   1,725 lines         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📝 Concise Prompter — average 303 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 327 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
