@@ -49,42 +49,42 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               5 hrs 28 mins       █████████████████████░░░░   83.89 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript               4 hrs 38 mins       ██████████████████████░░░   86.40 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 33 mins       █████████████████░░░░░░░░   69.82 % 
-VS Code                  1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   30.18 % 
+Claude Code              4 hrs               ███████████████████░░░░░░   74.51 % 
+VS Code                  1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         6 hrs 31 mins       █████████████████████████   100.00 % 
+bcs-intelligence         5 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 37 mins (86.28%)
+⏱ AI Coding Time: 4 hrs 48 mins (89.58%)
 
-✍️ 4,899 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,878 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 27,288,210 Input Tokens, 287,529 Output Tokens
+🔤 20,066,687 Input Tokens, 241,517 Output Tokens
 
-💵 $147.34 Estimated AI Cost This Week
+💵 $110.09 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 43 AI Prompts
+🧠 8 AI Sessions, 40 AI Prompts
 
-Opus                     5,018 lines         █████████████████████████   100.00 % 
+Opus                     3,942 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 408 characters per prompt
+📝 Concise Prompter — average 412 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
