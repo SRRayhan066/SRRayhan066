@@ -49,44 +49,45 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               4 hrs 38 mins       ██████████████████████░░░   86.40 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               2 hrs 18 mins       ███████████████████░░░░░░   75.68 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Claude Code              4 hrs               ███████████████████░░░░░░   74.51 % 
-VS Code                  1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Claude Code              2 hrs 6 mins        █████████████████░░░░░░░░   68.83 % 
+VS Code                  57 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         5 hrs 22 mins       █████████████████████████   100.00 % 
+bcs-intelligence         2 hrs 55 mins       ████████████████████████░   95.75 % 
+docker-node-app          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (89.58%)
+⏱ AI Coding Time: 2 hrs 34 mins (84.03%)
 
-✍️ 3,878 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,532 lines written by AI, 20 lines written by hand (98.71% AI-written)
 
-🔤 20,066,687 Input Tokens, 241,517 Output Tokens
+🔤 3,317,738 Input Tokens, 120,176 Output Tokens
 
-💵 $110.09 Estimated AI Cost This Week
+💵 $23.36 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 40 AI Prompts
+🧠 5 AI Sessions, 24 AI Prompts
 
-Opus                     3,942 lines         █████████████████████████   100.00 % 
+Opus                     1,592 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 412 characters per prompt
+🤖 AI-Driven — 98.71% of written lines came from AI
+📝 Concise Prompter — average 206 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 1.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
