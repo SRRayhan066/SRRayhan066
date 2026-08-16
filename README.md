@@ -31,15 +31,15 @@ const SRRayhan = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-🌆 Daytime                653 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-🌃 Evening                1501 commits        ██████████████░░░░░░░░░░░   56.39 % 
-🌙 Night                  240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌞 Morning                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+🌆 Daytime                722 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+🌃 Evening                1635 commits        ██████████████░░░░░░░░░░░   56.38 % 
+🌙 Night                  240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 ```
 
 
@@ -49,46 +49,46 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               52 mins             ███████████░░░░░░░░░░░░░░   44.33 % 
-Other                    50 mins             ███████████░░░░░░░░░░░░░░   42.82 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.17 % 
+JavaScript               2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
+Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Claude Code              1 hr 16 mins        ████████████████░░░░░░░░░   64.80 % 
-VS Code                  41 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
+Claude Code              3 hrs 7 mins        ██████████████░░░░░░░░░░░   55.97 % 
+VS Code                  2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.03 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         1 hr 22 mins        █████████████████░░░░░░░░   69.83 % 
-tessaract-ocr            27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-docker-node-app          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+bcs-intelligence         4 hrs 59 mins       ██████████████████████░░░   89.36 % 
+tessaract-ocr            27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+docker-node-app          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (77.33%)
+⏱ AI Coding Time: 4 hrs 18 mins (77.23%)
 
-✍️ 570 lines written by AI, 20 lines written by hand (96.61% AI-written)
+✍️ 1,807 lines written by AI, 42 lines written by hand (97.73% AI-written)
 
-🔤 209,684 Input Tokens, 49,341 Output Tokens
+🔤 691,256 Input Tokens, 134,803 Output Tokens
 
-💵 $3.89 Estimated AI Cost This Week
+💵 $13.93 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 12 AI Sessions, 61 AI Prompts
 
-Opus                     586 lines           █████████████████████████   100.00 % 
+Opus                     1,885 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.61% of written lines came from AI
-📝 Concise Prompter — average 268 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.46% of changed lines were hand-edited
+🤖 AI-Driven — 97.73% of written lines came from AI
+📄 Detailed Prompter — average 774 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
