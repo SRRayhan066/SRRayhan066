@@ -92,8 +92,14 @@ export function TerminalShell() {
         onClick={() => inputRef.current?.focus()}
       >
         {/* ScrollArea, not overflow-auto: it hides the native scrollbar and draws
-            the thumb as a div, so no engine can add stepper arrows to it */}
-        <ScrollArea ref={historyRef} type="auto" className="max-h-64 flex-1">
+            the thumb as a div, so no engine can add stepper arrows to it.
+            data-lenis-prevent keeps the wheel here instead of scrolling the page. */}
+        <ScrollArea
+          ref={historyRef}
+          type="auto"
+          data-lenis-prevent
+          className="max-h-64 flex-1"
+        >
           <div className="flex flex-col gap-2 pr-4.5">
             {history.map((line, i) =>
               line.type === "in" ? (

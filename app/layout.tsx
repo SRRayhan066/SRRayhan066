@@ -2,6 +2,8 @@ import type { Metadata, Viewport } from "next";
 import { IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { ThemeProvider } from "@/components/theme-provider";
+import { SmoothScrollProvider } from "@/components/smooth-scroll-provider";
+import "lenis/dist/lenis.css";
 import "./globals.css";
 
 const ibmPlexMono = IBM_Plex_Mono({
@@ -50,7 +52,7 @@ export default function RootLayout({
           enableSystem={false}
           disableTransitionOnChange
         >
-          {children}
+          <SmoothScrollProvider>{children}</SmoothScrollProvider>
         </ThemeProvider>
         <Analytics />
       </body>
