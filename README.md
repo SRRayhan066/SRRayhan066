@@ -27,9 +27,9 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,46 +49,46 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.17 % 
-JavaScript               2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
-Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other                    2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
+JavaScript               2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 7 mins        ██████████████░░░░░░░░░░░   55.97 % 
-VS Code                  2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.03 % 
+Claude Code              3 hrs 4 mins        ██████████████░░░░░░░░░░░   57.27 % 
+VS Code                  2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.73 % 
 
 🐱‍💻 Projects: 
-bcs-intelligence         4 hrs 59 mins       ██████████████████████░░░   89.36 % 
-tessaract-ocr            27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-docker-node-app          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+bcs-intelligence         4 hrs 45 mins       ██████████████████████░░░   88.91 % 
+tessaract-ocr            27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+docker-node-app          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 18 mins (77.23%)
+⏱ AI Coding Time: 4 hrs 8 mins (77.23%)
 
-✍️ 1,807 lines written by AI, 42 lines written by hand (97.73% AI-written)
+✍️ 1,761 lines written by AI, 67 lines written by hand (96.33% AI-written)
 
-🔤 691,256 Input Tokens, 134,803 Output Tokens
+🔤 720,159 Input Tokens, 137,965 Output Tokens
 
-💵 $13.93 Estimated AI Cost This Week
+💵 $15.95 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 61 AI Prompts
+🧠 11 AI Sessions, 58 AI Prompts
 
-Opus                     1,885 lines         █████████████████████████   100.00 % 
+Opus                     1,984 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.73% of written lines came from AI
-📄 Detailed Prompter — average 774 characters per prompt
+🤖 AI-Driven — 96.33% of written lines came from AI
+📄 Detailed Prompter — average 776 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.78% of changed lines were hand-edited
+🚀 High AI Trust — 4.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
