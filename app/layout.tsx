@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
-import { IBM_Plex_Mono } from "next/font/google";
+import { IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
+import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 
 const ibmPlexMono = IBM_Plex_Mono({
@@ -9,21 +10,26 @@ const ibmPlexMono = IBM_Plex_Mono({
   variable: "--font-ibm-plex-mono",
 });
 
+const ibmPlexSans = IBM_Plex_Sans({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-ibm-plex-sans",
+});
+
 export const metadata: Metadata = {
   title: "S R Rayhan | Associate Software Engineer",
   description:
     "Associate Software Engineer @ ShellBeeHaken Ltd. Full Stack Developer and Competitive Programmer.",
   icons: {
-    icon: [
-      { url: "/icon.svg", type: "image/svg+xml" },
-      { url: "/logo.jpg", type: "image/jpeg" },
-    ],
-    apple: "/logo.jpg",
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
   },
 };
 
 export const viewport: Viewport = {
-  themeColor: "#1a2332",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f4f2ee" },
+    { media: "(prefers-color-scheme: dark)", color: "#0d1117" },
+  ],
 };
 
 export default function RootLayout({
@@ -32,9 +38,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={ibmPlexMono.variable}>
-      <body className="font-mono antialiased">
-        {children}
+    <html
+      lang="en"
+      className={`${ibmPlexSans.variable} ${ibmPlexMono.variable}`}
+      suppressHydrationWarning
+    >
+      <body className="font-sans antialiased">
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="dark"
+          enableSystem={false}
+          disableTransitionOnChange
+        >
+          {children}
+        </ThemeProvider>
         <Analytics />
       </body>
     </html>
