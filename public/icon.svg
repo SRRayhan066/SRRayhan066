@@ -1,15 +1,16 @@
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background: Deep Slate/Navy -->
-  <rect width="32" height="32" rx="6" fill="#0f172a"/>
-  
-  <!-- The "R": Bold, Sans-Serif, Professional -->
-  <!-- Path for a clear "R" -->
-  <path d="M10 22V10H17C19.2091 10 21 11.7909 21 14C21 16.2091 19.2091 18 17 18H10L21 22" 
-        stroke="#f8fafc" 
-        stroke-width="3" 
-        stroke-linecap="round" 
-        stroke-linejoin="round"/>
-  
-  <!-- Subtle Cyan Accent (Code Dot) -->
-  <circle cx="24" cy="22" r="2" fill="#06b6d4"/>
+  <style>
+    .panel { fill: #0d1117; }
+    .edge { stroke: #232c37; }
+    .cursor { fill: #e4e9ef; }
+    @media (prefers-color-scheme: light) {
+      .panel { fill: #fffefb; }
+      .edge { stroke: #e0ddd5; }
+      .cursor { fill: #1b1f24; }
+    }
+  </style>
+  <rect class="panel" width="32" height="32" rx="7" />
+  <rect class="edge" x="0.75" y="0.75" width="30.5" height="30.5" rx="6.25" stroke-width="1.5" />
+  <path d="M9 10.5L14.5 16L9 21.5" stroke="#f0b429" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <rect class="cursor" x="17.5" y="18.5" width="7" height="3" rx="0.5" />
 </svg>

@@ -1,83 +1,42 @@
-"use client";
-
-import { HtmlTag } from "./html-tag";
-import { HtmlComment } from "./html-comment";
-import { LineNumbers } from "./line-numbers";
-import { useEffect, useState } from "react";
+import { CommandLine } from "./command-line";
+import { TerminalPanel } from "./terminal-panel";
 
 export function HeroSection() {
-  const [cursorVisible, setCursorVisible] = useState(true);
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCursorVisible((v) => !v);
-    }, 530);
-    return () => clearInterval(interval);
-  }, []);
-
   return (
-    <section className="min-h-screen flex items-center pt-16" id="hero">
-      <div className="mx-auto max-w-5xl w-full px-6">
-        <div className="flex">
-          <LineNumbers offset={-2} />
-          <div className="flex-1 pl-4 md:pl-8 space-y-2 leading-6">
-            <HtmlComment>{"S R Rayhan — portfolio/index.html"}</HtmlComment>
-            <HtmlTag tag="html" attrs={{ lang: "en" }} />
-            <div className="pl-4 md:pl-6">
-              <HtmlTag tag="head" />
-              <div className="pl-4 md:pl-6 space-y-1">
-                <div className="flex items-baseline gap-0">
-                  <HtmlTag tag="title" className="inline" inline />
-                  <span className="text-foreground text-sm">
-                    {"S R Rayhan — Software Engineer"}
-                  </span>
-                  <HtmlTag tag="title" closing inline className="inline" />
-                </div>
-                <div className="flex items-baseline gap-0 flex-wrap">
-                  <HtmlTag
-                    tag="meta"
-                    attrs={{
-                      name: "description",
-                      content:
-                        "Associate Software Engineer @ ShellBeeHaken Ltd. Full Stack Developer and Competitive Programmer.",
-                    }}
-                  />
-                </div>
-              </div>
-              <HtmlTag tag="head" closing />
-            </div>
-            <div className="pl-4 md:pl-6">
-              <HtmlTag tag="body" />
-              <div className="pl-4 md:pl-8 py-8 md:py-12 space-y-6">
-                <div>
-                  <HtmlTag tag="h1" attrs={{ class: "hero-title" }} />
-                  <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight pl-4 md:pl-6 py-3">
-                    {"Turning Coffee"}
-                    <br />
-                    {"Into "}
-                    <span className="text-primary">{"Code"}</span>
-                    <span
-                      className={`inline-block w-3 h-8 md:h-12 bg-primary/70 ml-1 align-middle transition-opacity ${
-                        cursorVisible ? "opacity-100" : "opacity-0"
-                      }`}
-                    />
-                  </h1>
-                  <HtmlTag tag="h1" closing />
-                </div>
-                <div>
-                  <HtmlTag tag="p" attrs={{ class: "intro" }} />
-                  <p className="text-muted-foreground text-sm md:text-base max-w-4xl pl-4 md:pl-6 py-2 leading-relaxed">
-                    {
-                      "Associate Software Engineer @ ShellBeeHaken Ltd | Software Engineering @ SUST | Full Stack Developer | Creative Coder | Passionate Learner"
-                    }
-                  </p>
-                  <HtmlTag tag="p" closing />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+    <TerminalPanel
+      id="about"
+      title="rayhan@sust: ~/intro"
+      className="lg:col-span-8"
+      bodyClassName="gap-5 px-6 pt-8 pb-7 sm:px-7"
+    >
+      <CommandLine>{"whoami"}</CommandLine>
+
+      <h1 className="text-[38px] leading-[1.03] font-bold tracking-[-0.035em] text-balance sm:text-5xl lg:text-[60px]">
+        {"I build software that"}
+        <br />
+        {"stays fast under load."}
+      </h1>
+
+      <p className="max-w-[60ch] text-[16.5px] leading-relaxed text-pretty text-muted-foreground">
+        {
+          "Associate Software Engineer at ShellBeeHaken Ltd and a BSc Software Engineering student at SUST. I work across the stack — React and Next.js on the front, Nest.js, Node and Redis behind it — and I spend my off hours on competitive programming."
+        }
+      </p>
+
+      <div className="mt-auto flex flex-wrap gap-2.5 pt-2 font-mono text-[13px]">
+        <a
+          href="mailto:shafikulrahman66@gmail.com"
+          className="rounded-md bg-primary px-4 py-2.5 font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+        >
+          {"get in touch"}
+        </a>
+        <a
+          href="#projects"
+          className="rounded-md border border-border px-4 py-2.5 text-muted-foreground transition-colors hover:border-primary hover:text-foreground"
+        >
+          {"see the work"}
+        </a>
       </div>
-    </section>
+    </TerminalPanel>
   );
 }
