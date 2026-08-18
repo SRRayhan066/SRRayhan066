@@ -19,6 +19,7 @@ export function TerminalPanel({
   return (
     <section
       id={id}
+      data-reveal
       className={cn(
         "flex flex-col overflow-hidden rounded-lg border border-border bg-card shadow-panel",
         className,

@@ -18,7 +18,7 @@ export function EducationPanel() {
           {"Shahjalal University of Science and Technology"}
         </span>
         <span className="font-mono text-xs text-subtle">
-          {"CGPA 3.57 / 4.00 · Sylhet"}
+          {"2020 — 2025 · CGPA 3.57 / 4.00 · Sylhet"}
         </span>
       </div>
 

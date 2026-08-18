@@ -8,12 +8,28 @@ const stack = [
     items: ["C/C++", "Java", "JavaScript", "TypeScript"],
   },
   {
-    group: "frameworks",
-    items: ["React.js", "Next.js", "Nest.js", "Node.js", "Tailwind CSS"],
+    group: "ai/llm",
+    items: ["RAG pipelines", "Embeddings", "Vector search"],
   },
   {
-    group: "data & tools",
-    items: ["MySQL", "MongoDB", "Redis", "Git", "GitHub"],
+    group: "frameworks",
+    items: [
+      "React.js",
+      "Next.js",
+      "Nest.js",
+      "Node.js",
+      "Tailwind CSS",
+      "REST APIs",
+      "WebSockets",
+    ],
+  },
+  {
+    group: "databases",
+    items: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Qdrant", "pgvector"],
+  },
+  {
+    group: "tools",
+    items: ["Git", "GitHub", "Bitbucket", "Jira", "Confluence"],
   },
 ];
 
@@ -27,9 +43,16 @@ export function StackPanel() {
       <CommandLine>{"cat stack.json"}</CommandLine>
 
       <div className="flex flex-col gap-3.5">
-        {stack.map((section) => (
-          <div key={section.group} className="flex flex-col gap-2">
-            <span className="font-mono text-[11.5px] tracking-[0.09em] uppercase text-subtle">
+        {stack.map((section, i) => (
+          <div
+            key={section.group}
+            className={`flex flex-col gap-2 sm:flex-row sm:gap-3 ${
+              i < stack.length - 1
+                ? "border-b border-dashed border-border pb-3.5"
+                : ""
+            }`}
+          >
+            <span className="shrink-0 pt-1 font-mono text-[12px] font-semibold tracking-[0.1em] uppercase text-primary sm:w-26">
               {section.group}
             </span>
             <div className="flex flex-wrap gap-1.5">
