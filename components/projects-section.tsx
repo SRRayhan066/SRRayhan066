@@ -4,6 +4,14 @@ import { TerminalPanel } from "./terminal-panel";
 
 const projects = [
   {
+    title: "Bloom Filter Username Check",
+    year: "2025",
+    description:
+      "Fast username availability checks with controlled false positives. Multiple hash functions over a bit array, backed by Redis, cutting database lookups at scale.",
+    tech: ["Next.js", "TypeScript", "Redis", "MongoDB"],
+    github: "https://github.com/SRRayhan066/Bloom-Filter",
+  },
+  {
     title: "Twitter Clone",
     year: "2025",
     description:

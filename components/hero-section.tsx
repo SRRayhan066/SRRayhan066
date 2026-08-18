@@ -19,7 +19,7 @@ export function HeroSection() {
 
       <p className="max-w-[60ch] text-[16.5px] leading-relaxed text-pretty text-muted-foreground">
         {
-          "Associate Software Engineer at ShellBeeHaken Ltd and a BSc Software Engineering student at SUST. I work across the stack — React and Next.js on the front, Nest.js, Node and Redis behind it — and I spend my off hours on competitive programming."
+          "Associate Software Engineer at ShellBeeHaken Ltd, with a BSc in Software Engineering from SUST. I work across the stack — React and Next.js on the front, Node and Redis behind it — and I build AI systems on RAG pipelines, embeddings and vector search. Off hours go to competitive programming."
         }
       </p>
 

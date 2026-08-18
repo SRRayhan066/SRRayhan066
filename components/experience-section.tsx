@@ -10,11 +10,13 @@ const experiences = [
     period: "Jun 2025 — present",
     current: true,
     points: [
-      "Developed and contributed to a live project, Kriyakarak, delivering end-to-end functionality.",
-      "Designed and implemented multiple backend services and frontend interfaces, enhancing system usability.",
-      "Worked with clustering, rate limiting, caching and multi-instance data synchronization.",
+      "Built an AI voice agent for farmers on RAG pipelines, with context-aware retrieval and response generation in real time.",
+      "Designed and implemented backend services for Kriyakarak, a live production system, spanning API development and frontend integration.",
+      "Integrated embeddings and vector databases (Qdrant, pgvector) to sharpen semantic search accuracy and response relevance.",
+      "Worked with caching, rate limiting and multi-instance synchronization to keep the system fast under load.",
+      "Shipped through production deployments, debugging and iterative releases alongside cross-functional teams.",
     ],
-    tech: ["Next.js", "React.js", "Node.js", "Redis", "MongoDB"],
+    tech: ["Next.js", "Node.js", "RAG", "Qdrant", "Redis", "MongoDB"],
   },
   {
     role: "Intern Software Engineer",
@@ -23,12 +25,13 @@ const experiences = [
     period: "Dec 2024 — May 2025",
     current: false,
     points: [
-      "Built a Snake & Ladders game with React.js, deepening understanding of components and state management.",
-      "Built a Twitter clone with Next.js, exploring full-stack development and server-side rendering.",
-      "Learned Git & GitHub to manage version control and collaborate smoothly.",
-      "Created a dice-based game using JavaScript to apply core programming concepts.",
+      "Worked on full-stack web development with React.js, Next.js and Node.js in production environments.",
+      "Built internal tools and contributed to features running live.",
+      "Developed a Twitter-like application with authentication, server-side rendering and real-time updates.",
+      "Started out on browser games — Snake & Ladders in React and a dice game in JavaScript — to get the fundamentals down.",
+      "Picked up Git workflows, REST API design and agile practices.",
     ],
-    tech: ["React.js", "Next.js", "JavaScript", "Git", "HTML/CSS"],
+    tech: ["React.js", "Next.js", "Node.js", "JavaScript", "Git"],
   },
 ];
 

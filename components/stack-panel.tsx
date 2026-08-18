@@ -4,16 +4,32 @@ import { TerminalPanel } from "./terminal-panel";
 
 const stack = [
   {
-    group: "languages",
+    group: "lang",
     items: ["C/C++", "Java", "JavaScript", "TypeScript"],
   },
   {
-    group: "frameworks",
-    items: ["React.js", "Next.js", "Nest.js", "Node.js", "Tailwind CSS"],
+    group: "ai/llm",
+    items: ["RAG pipelines", "Embeddings", "Vector search"],
   },
   {
-    group: "data & tools",
-    items: ["MySQL", "MongoDB", "Redis", "Git", "GitHub"],
+    group: "frameworks",
+    items: [
+      "React.js",
+      "Next.js",
+      "Nest.js",
+      "Node.js",
+      "Tailwind CSS",
+      "REST APIs",
+      "WebSockets",
+    ],
+  },
+  {
+    group: "data",
+    items: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Qdrant", "pgvector"],
+  },
+  {
+    group: "tools",
+    items: ["Git", "GitHub", "Bitbucket", "Jira", "Confluence"],
   },
 ];
 
@@ -28,8 +44,11 @@ export function StackPanel() {
 
       <div className="flex flex-col gap-3.5">
         {stack.map((section) => (
-          <div key={section.group} className="flex flex-col gap-2">
-            <span className="font-mono text-[11.5px] tracking-[0.09em] uppercase text-subtle">
+          <div
+            key={section.group}
+            className="flex flex-col gap-2 sm:flex-row sm:gap-3"
+          >
+            <span className="shrink-0 pt-1 font-mono text-[11.5px] tracking-[0.09em] uppercase text-subtle sm:w-26">
               {section.group}
             </span>
             <div className="flex flex-wrap gap-1.5">

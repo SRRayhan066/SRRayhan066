@@ -17,13 +17,15 @@ const stats = [
     highlight: false,
   },
   {
-    value: "4",
+    value: "5",
     unit: "",
     label: "shipped projects",
     detail: "full stack & games",
     highlight: false,
   },
 ];
+
+const ratings = "cf pupil 1213 · cc 3★ 1620";
 
 export function StatsPanel() {
   return (
@@ -61,6 +63,10 @@ export function StatsPanel() {
             </span>
           </div>
         ))}
+      </div>
+
+      <div className="mt-auto pt-1 font-mono text-[11.5px] text-subtle">
+        {ratings}
       </div>
     </TerminalPanel>
   );

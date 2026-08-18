@@ -6,6 +6,7 @@ import { StatsPanel } from "@/components/stats-panel";
 import { LearningPanel } from "@/components/learning-panel";
 import { ExperienceSection } from "@/components/experience-section";
 import { EducationPanel } from "@/components/education-panel";
+import { CertificationsPanel } from "@/components/certifications-panel";
 import { ResumePanel } from "@/components/resume-panel";
 import { ProjectsSection } from "@/components/projects-section";
 import { ArticlesSection } from "@/components/articles-section";
@@ -26,6 +27,7 @@ export default function Home() {
         <ExperienceSection />
         <div className="flex flex-col gap-3.5 lg:col-span-5">
           <EducationPanel />
+          <CertificationsPanel />
           <ResumePanel />
         </div>
         <ProjectsSection />

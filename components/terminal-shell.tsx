@@ -6,14 +6,16 @@ import { TerminalPanel } from "./terminal-panel";
 import { ScrollArea } from "./ui/scroll-area";
 
 const commands: Record<string, string> = {
-  help: "available: whoami, skills, experience, projects, articles, contact, theme, clear",
+  help: "available: whoami, skills, experience, projects, certs, articles, contact, theme, clear",
   whoami:
     "S R Rayhan — Associate Software Engineer @ ShellBeeHaken Ltd. BSc Software Engineering, SUST.",
   skills:
-    "C/C++ · Java · JS/TS · React · Next.js · Nest.js · Node · MySQL · MongoDB · Redis · Tailwind · Git",
+    "ai/llm: RAG pipelines · embeddings · vector search — languages: C/C++ · Java · JS/TS — frameworks: React · Next.js · Nest.js · Node · Tailwind · REST · WebSockets — databases: MongoDB · PostgreSQL · MySQL · Redis · Qdrant · pgvector — tools: Git · GitHub · Bitbucket · Jira · Confluence",
   experience:
-    "Associate SWE @ ShellBeeHaken (Jun 2025 →) · Intern SWE @ ShellBeeHaken (Dec 2024 – May 2025)",
-  projects: "twitter-clone · eco-sync · sust-football-tournament · links-adventure",
+    "Associate SWE @ ShellBeeHaken (Jun 2025 →) building AI voice agents on RAG pipelines · Intern SWE @ ShellBeeHaken (Dec 2024 – May 2025)",
+  projects:
+    "bloom-filter · twitter-clone · eco-sync · sust-football-tournament · links-adventure",
+  certs: "AWS AI Practitioner Challenge — Udacity, Apr 2026",
   articles:
     "bloom-filters · distributed-locking · set-of-x — all on medium.com/@shafikulrahman66",
   contact:
