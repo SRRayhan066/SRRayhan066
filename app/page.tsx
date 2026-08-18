@@ -13,6 +13,7 @@ import { ArticlesSection } from "@/components/articles-section";
 import { TerminalShell } from "@/components/terminal-shell";
 import { ContactSection } from "@/components/contact-section";
 import { Footer } from "@/components/footer";
+import { ScrollReveal } from "@/components/scroll-reveal";
 
 export default function Home() {
   return (
@@ -36,6 +37,7 @@ export default function Home() {
         <ContactSection />
       </main>
       <Footer />
+      <ScrollReveal />
     </div>
   );
 }
