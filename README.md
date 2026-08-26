@@ -49,45 +49,43 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 23 mins             █████████░░░░░░░░░░░░░░░░   37.43 % 
-TypeScript               21 mins             ████████░░░░░░░░░░░░░░░░░   33.39 % 
-CSS                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JavaScript               5 mins              ██████████████░░░░░░░░░░░   54.66 % 
+YAML                     3 mins              █████████░░░░░░░░░░░░░░░░   37.22 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Claude Code              58 mins             ███████████████████████░░   93.10 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+VS Code                  9 mins              ████████████████████████░   94.56 % 
+Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🐱‍💻 Projects: 
-srrayhan066              58 mins             ███████████████████████░░   92.77 % 
-Learning-Nginx           4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Learning-Nginx           10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (97.55%)
+⏱ AI Coding Time: 8 mins (81.09%)
 
-✍️ 298 lines written by AI, 35 lines written by hand (89.49% AI-written)
+✍️ 42 lines written by AI, 38 lines written by hand (52.5% AI-written)
 
-🔤 112,674 Input Tokens, 42,361 Output Tokens
+🔤 26,061 Input Tokens, 2,526 Output Tokens
 
-💵 $4.98 Estimated AI Cost This Week
+💵 $0.34 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 14 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-Opus                     298 lines           █████████████████████████   100.00 % 
+Opus                     42 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.49% of written lines came from AI
-📝 Concise Prompter — average 92 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 10.51% of changed lines were hand-edited
+⚖️ Balanced with AI — 52.5% of written lines came from AI
+📝 Concise Prompter — average 53 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 48.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
