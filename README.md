@@ -49,43 +49,40 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               5 mins              ██████████████░░░░░░░░░░░   54.66 % 
-YAML                     3 mins              █████████░░░░░░░░░░░░░░░░   37.22 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  9 mins              ████████████████████████░   94.56 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+VS Code                  0 secs              █████████████░░░░░░░░░░░░   53.49 % 
+Claude Code              0 secs              ████████████░░░░░░░░░░░░░   46.51 % 
 
 🐱‍💻 Projects: 
-Learning-Nginx           10 mins             █████████████████████████   100.00 % 
+Learning-Nginx           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (81.09%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
-✍️ 42 lines written by AI, 38 lines written by hand (52.5% AI-written)
+✍️ 42 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 26,061 Input Tokens, 2,526 Output Tokens
+🔤 15,686 Input Tokens, 2,091 Output Tokens
 
-💵 $0.34 Estimated AI Cost This Week
+💵 $0.26 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 Opus                     42 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.5% of written lines came from AI
-📝 Concise Prompter — average 53 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 48.15% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
