@@ -36,10 +36,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-🌆 Daytime                742 commits         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌃 Evening                1688 commits        ██████████████░░░░░░░░░░░   56.27 % 
-🌙 Night                  260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+🌞 Morning                310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+🌆 Daytime                742 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌃 Evening                1691 commits        ██████████████░░░░░░░░░░░   56.29 % 
+🌙 Night                  261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 ```
 
 
@@ -49,39 +49,38 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+TypeScript               4 mins              █████████████████████░░░░   82.25 % 
+Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████░░░░░░░░░░░░   53.49 % 
-Claude Code              0 secs              ████████████░░░░░░░░░░░░░   46.51 % 
+Claude Code              4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Learning-Nginx           0 secs              █████████████████████████   100.00 % 
+srrayhan066              4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
-✍️ 42 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 15,686 Input Tokens, 2,091 Output Tokens
+🔤 20,036 Input Tokens, 4,591 Output Tokens
 
-💵 $0.26 Estimated AI Cost This Week
+💵 $0.47 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Opus                     42 lines            █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     58 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 231 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
