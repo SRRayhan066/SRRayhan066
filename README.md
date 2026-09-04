@@ -49,39 +49,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████████████░░░░   82.25 % 
-Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-srrayhan066              4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
-
-✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 20,036 Input Tokens, 4,591 Output Tokens
-
-💵 $0.47 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     58 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 231 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
