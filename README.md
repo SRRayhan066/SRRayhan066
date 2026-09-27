@@ -36,10 +36,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-🌆 Daytime                789 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌃 Evening                1719 commits        ██████████████░░░░░░░░░░░   54.66 % 
-🌙 Night                  282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+🌞 Morning                355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+🌆 Daytime                790 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌃 Evening                1721 commits        ██████████████░░░░░░░░░░░   54.67 % 
+🌙 Night                  282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 
 
@@ -70,11 +70,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
