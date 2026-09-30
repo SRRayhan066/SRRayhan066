@@ -117,5 +117,5 @@ Go                       3 repos             █░░░░░░░░░░�
   </div>
   <br><br><br><br><br><br><br><br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srrayhan066&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  ![SRRayhan066's GitHub contributions](https://github.pumbas.net/api/contributions/SRRayhan066?bgColour=161B22&borderRadius=4)
 </p>
