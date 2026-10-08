@@ -36,9 +36,9 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-🌆 Daytime                864 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌃 Evening                1778 commits        █████████████░░░░░░░░░░░░   52.25 % 
+🌞 Morning                443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+🌆 Daytime                864 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+🌃 Evening                1779 commits        █████████████░░░░░░░░░░░░   52.26 % 
 🌙 Night                  318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 ```
 
@@ -49,40 +49,40 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               33 mins             ████████████████████████░   95.41 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TypeScript               33 mins             ████████████████░░░░░░░░░   62.54 % 
+Markdown                 20 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████░░░░   84.79 % 
-Claude Code              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+VS Code                  41 mins             ███████████████████░░░░░░   76.54 % 
+Claude Code              12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 
 🐱‍💻 Projects: 
-distributed-systems-roadm34 mins             █████████████████████████   100.00 % 
+distributed-systems-roadm53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.00 % 
+Linux                    53 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (19.1%)
+⏱ AI Coding Time: 13 mins (25.98%)
 
-✍️ 0 lines written by AI, 46 lines written by hand (0.0% AI-written)
+✍️ 70 lines written by AI, 46 lines written by hand (60.34% AI-written)
 
-🔤 36,387 Input Tokens, 2,752 Output Tokens
+🔤 57,471 Input Tokens, 7,977 Output Tokens
 
-💵 $0.26 Estimated AI Cost This Week
+💵 $0.42 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 7 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     70 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
+⚖️ Balanced with AI — 60.34% of written lines came from AI
+📝 Concise Prompter — average 165 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 44.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
