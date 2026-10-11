@@ -49,40 +49,40 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               33 mins             ████████████████░░░░░░░░░   62.54 % 
-Markdown                 20 mins             █████████░░░░░░░░░░░░░░░░   37.46 % 
+TypeScript               22 mins             █████████████░░░░░░░░░░░░   53.32 % 
+Markdown                 20 mins             ████████████░░░░░░░░░░░░░   46.68 % 
 
 🔥 Editors: 
-VS Code                  41 mins             ███████████████████░░░░░░   76.54 % 
-Claude Code              12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+VS Code                  33 mins             ███████████████████░░░░░░   77.87 % 
+Claude Code              9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
 
 🐱‍💻 Projects: 
-distributed-systems-roadm53 mins             █████████████████████████   100.00 % 
+distributed-systems-roadm43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (25.98%)
+⏱ AI Coding Time: 10 mins (24.48%)
 
-✍️ 70 lines written by AI, 46 lines written by hand (60.34% AI-written)
+✍️ 70 lines written by AI, 29 lines written by hand (70.71% AI-written)
 
-🔤 57,471 Input Tokens, 7,977 Output Tokens
+🔤 43,140 Input Tokens, 5,902 Output Tokens
 
-💵 $0.42 Estimated AI Cost This Week
+💵 $0.29 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Opus                     70 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.34% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
+🤖 AI-Driven — 70.71% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 44.0% of changed lines were hand-edited
+🚀 High AI Trust — 32.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
