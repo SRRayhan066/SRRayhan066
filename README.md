@@ -36,10 +36,10 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-🌆 Daytime                875 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-🌃 Evening                1779 commits        █████████████░░░░░░░░░░░░   52.03 % 
-🌙 Night                  318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+🌞 Morning                447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+🌆 Daytime                880 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+🌃 Evening                1779 commits        █████████████░░░░░░░░░░░░   51.96 % 
+🌙 Night                  318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 ```
 
 
@@ -49,42 +49,42 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        ██████████████████░░░░░░░   73.05 % 
-Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               43 mins             █████████████████░░░░░░░░   69.29 % 
+Bash                     18 mins             ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████░░░░░░░░░░░░   53.58 % 
-Claude Code              1 hr 9 mins         ████████████░░░░░░░░░░░░░   46.42 % 
+Claude Code              33 mins             █████████████░░░░░░░░░░░░   53.36 % 
+VS Code                  29 mins             ████████████░░░░░░░░░░░░░   46.64 % 
 
 🐱‍💻 Projects: 
-distributed-systems-roadm2 hrs 29 mins       █████████████████████████   100.00 % 
+distributed-systems-roadm1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (55.78%)
+⏱ AI Coding Time: 34 mins (54.7%)
 
-✍️ 398 lines written by AI, 86 lines written by hand (82.23% AI-written)
+✍️ 16 lines written by AI, 28 lines written by hand (36.36% AI-written)
 
-🔤 124,082 Input Tokens, 59,111 Output Tokens
+🔤 60,951 Input Tokens, 31,110 Output Tokens
 
-💵 $2.83 Estimated AI Cost This Week
+💵 $1.68 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 19 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
-Opus                     602 lines           █████████████████████████   100.00 % 
+Opus                     16 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.23% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 15.57% of changed lines were hand-edited
+⚖️ Balanced with AI — 36.36% of written lines came from AI
+📝 Concise Prompter — average 161 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 69.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
