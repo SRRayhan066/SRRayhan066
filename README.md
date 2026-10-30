@@ -49,41 +49,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-SQL                      26 mins             ██████████░░░░░░░░░░░░░░░   41.58 % 
-TypeScript               21 mins             ████████░░░░░░░░░░░░░░░░░   33.64 % 
-YAML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████░░░░░░░░░░░░   50.32 % 
-Claude Code              32 mins             ████████████░░░░░░░░░░░░░   49.68 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-distributed-systems-roadm1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (56.21%)
-
-✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
-
-🔤 93,678 Input Tokens, 11,410 Output Tokens
-
-💵 $0.72 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 8 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 90 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
