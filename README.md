@@ -27,19 +27,19 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.29%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                453 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-🌆 Daytime                888 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-🌃 Evening                1781 commits        █████████████░░░░░░░░░░░░   51.77 % 
-🌙 Night                  318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+🌞 Morning                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌆 Daytime                936 commits         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌃 Evening                1811 commits        █████████████░░░░░░░░░░░░   50.42 % 
+🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
 
 
@@ -49,22 +49,44 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs               ████████████████░░░░░░░░░   65.68 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+SQL                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 55 mins       ████████████████████████░   95.78 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Hishab                   2 hrs 55 mins       ████████████████████████░   95.78 % 
+bcs-intelligence         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 55 mins (95.78%)
+
+✍️ 2,497 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,067,460 Input Tokens, 397,887 Output Tokens
+
+💵 $16.23 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 16 AI Prompts
+
+Opus                     2,497 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 446 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
