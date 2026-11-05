@@ -36,9 +36,9 @@ const SRRayhan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                509 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-🌆 Daytime                936 commits         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-🌃 Evening                1811 commits        █████████████░░░░░░░░░░░░   50.42 % 
+🌞 Morning                530 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+🌆 Daytime                918 commits         ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+🌃 Evening                1809 commits        █████████████░░░░░░░░░░░░   50.35 % 
 🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
 
