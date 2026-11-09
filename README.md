@@ -49,44 +49,22 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs               ████████████████░░░░░░░░░   65.68 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-SQL                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Bash                     7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 55 mins       ████████████████████████░   95.78 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Hishab                   2 hrs 55 mins       ████████████████████████░   95.78 % 
-bcs-intelligence         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+bcs-intelligence         7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (95.78%)
-
-✍️ 2,497 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,067,460 Input Tokens, 397,887 Output Tokens
-
-💵 $16.23 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 16 AI Prompts
-
-Opus                     2,497 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 446 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
