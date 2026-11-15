@@ -31,15 +31,15 @@ const SRRayhan = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.32%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-🌆 Daytime                918 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-🌃 Evening                1810 commits        █████████████░░░░░░░░░░░░   50.35 % 
-🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+🌞 Morning                531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+🌆 Daytime                918 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌃 Evening                1813 commits        █████████████░░░░░░░░░░░░   50.39 % 
+🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 ```
 
 
@@ -70,8 +70,8 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
 Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
