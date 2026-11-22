@@ -31,15 +31,15 @@ const SRRayhan = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.35%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-🌆 Daytime                919 commits         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-🌃 Evening                1813 commits        █████████████░░░░░░░░░░░░   50.38 % 
-🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌞 Morning                533 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                929 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌃 Evening                1833 commits        █████████████░░░░░░░░░░░░   50.48 % 
+🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 
 
@@ -70,11 +70,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
