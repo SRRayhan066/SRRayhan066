@@ -27,19 +27,19 @@ const SRRayhan = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2041%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.97%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-🌆 Daytime                1058 commits        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌃 Evening                1998 commits        ████████████░░░░░░░░░░░░░   48.58 % 
-🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+🌞 Morning                795 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+🌆 Daytime                1114 commits        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+🌃 Evening                2037 commits        ████████████░░░░░░░░░░░░░   47.57 % 
+🌙 Night                  336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 
 
@@ -49,32 +49,51 @@ const SRRayhan = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 31 mins             █████████████████████████   99.69 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              18 mins             ███████████████░░░░░░░░░░   59.77 % 
+VS Code                  12 mins             ██████████░░░░░░░░░░░░░░░   40.23 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Altri-assessment         31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (59.77%)
+
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+
+🔤 72,931 Input Tokens, 13,206 Output Tokens
+
+💵 $0.65 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 38,118 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 
